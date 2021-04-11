@@ -1,0 +1,6153 @@
+0 HEAD
+1 CHAR UTF-8
+1 SOUR Ancestry.com Family Trees
+2 VERS (2010.3)
+2 NAME Ancestry.com Family Trees
+2 CORP Ancestry.com
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+0 @P1@ INDI 
+1 NAME Shmuel /Sternbach/
+1 SEX M
+1 BIRT 
+2 DATE 10 NOV 2001
+1 GRAD 
+2 DATE 20 SEP 2003
+2 PLAC manta suri
+1 RESI 
+1 ADDR shmuelsternbach@@yahoo.com
+1 GRAD 
+2 DATE 20 SEP 2004
+2 PLAC talmudical academy
+1 GRAD 
+2 DATE 20 SEP 2010
+2 PLAC ahavas torah
+1 ADDR shmuelsternbach613@@gmail.com
+1 ADDR 4434386710
+1 FAMC @F1@
+0 @P2@ INDI 
+1 NAME Yaacov (John) Matisyahu (Michael) /Sternbach/
+1 SEX M
+1 DEAT 
+1 BIRT 
+2 DATE 25 NOV 1955
+1 FAMC @F4@
+1 FAMS @F1@
+0 @P3@ INDI 
+1 NAME lea /gurewitz/
+1 SEX F
+1 BIRT 
+1 ADDR leasternbach613@@gmail.com
+1 FAMC @F8@
+1 FAMS @F1@
+1 FAMS @F6@
+0 @P4@ INDI 
+1 NAME Harold (Tzvi) /Sternbach/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMC @F12@
+1 FAMS @F4@
+1 FAMS @F5@
+0 @P5@ INDI 
+1 BIRT 
+2 DATE 17 Nov 1916
+2 PLAC Bronx, New York City, New York, USA
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 18, Kings, New York; Roll: T625_1173; Page: 14B; Enumeration District: 1137
+3 _APID 1,6061::87175445
+1 DEAT 
+2 DATE Dec 1994
+1 NAME Selma /Rothstein/
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 18, Kings, New York; Roll: T625_1173; Page: 14B; Enumeration District: 1137
+3 _APID 1,6061::87175445
+1 RESI Marital Status: SingleRelation to Head: Daughter
+2 DATE 1920
+2 PLAC Brooklyn Assembly District 18, Kings, New York, USA
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 18, Kings, New York; Roll: T625_1173; Page: 14B; Enumeration District: 1137
+3 _APID 1,6061::87175445
+1 SEX F
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=5
+1 FAMC @F11@
+1 FAMS @F4@
+1 FAMS @F99@
+0 @P6@ INDI 
+1 NAME chaya /sternbach/
+1 SEX F
+1 BIRT 
+2 DATE 3 AUG 2006
+1 FAMC @F1@
+0 @P7@ INDI 
+1 NAME eli /sternbach/
+1 SEX M
+1 BIRT 
+1 ADDR elisternbach613@@gmail.com
+1 FAMC @F1@
+0 @P8@ INDI 
+1 NAME kalman /sternbach/
+1 SEX M
+1 BIRT 
+1 FAMC @F1@
+0 @P9@ INDI 
+1 NAME chany /sternbach/
+1 SEX F
+1 BIRT 
+1 ADDR chanysternbach@@yahoo.com
+1 FAMC @F1@
+1 FAMS @F10@
+0 @P10@ INDI 
+1 NAME dini /sternbach/
+1 SEX F
+1 BIRT 
+1 FAMC @F1@
+0 @P11@ INDI 
+1 NAME nosson /sternbach/
+1 SEX M
+1 BIRT 
+1 FAMC @F1@
+1 FAMS @F2@
+0 @P12@ INDI 
+1 NAME leible /sternbach/
+1 SEX M
+1 BIRT 
+1 ADDR ynsbiz@@yahoo.com
+1 FAMC @F1@
+1 FAMS @F3@
+0 @P13@ INDI 
+1 NAME aaron /gurewitz/
+1 SEX M
+1 BIRT 
+1 FAMC @F16@
+1 FAMS @F8@
+0 @P14@ INDI 
+1 NAME rachel /averbuch/
+1 SEX F
+1 BIRT 
+1 FAMC @F17@
+1 FAMS @F8@
+0 @P15@ INDI 
+1 NAME Chayim shlomo /Lando/
+2 SOUR @S291470506@
+3 _APID 1,1788::146855330
+2 SOUR @S291470489@
+3 _APID 1,1732::63896747
+2 SOUR @S291470533@
+3 PAGE New York City Municipal Archives; New York, New York; Borough: Brooklyn
+3 _APID 1,61406::3212186
+1 BIRT 
+2 DATE 6 MAR 1963
+2 SOUR @S291470506@
+3 _APID 1,1788::146855330
+2 SOUR @S291470489@
+3 _APID 1,1732::63896747
+1 RESI 
+2 PLAC Saint Louis, Missouri, USA
+2 SOUR @S291470489@
+3 _APID 1,1732::63896747
+1 RESI 
+2 DATE 1986
+2 PLAC Los Angeles, CA
+2 SOUR @S291470506@
+3 _APID 1,1788::146855330
+1 SEX M
+1 FAMS @F6@
+1 FAMS @F7@
+0 @P16@ INDI 
+1 NAME Rafael /Wittow/
+1 SEX M
+1 BIRT 
+1 FAMS @F10@
+0 @P17@ INDI 
+1 NAME Chaim Moshe /Wittow/
+1 SEX M
+1 BIRT 
+1 FAMC @F10@
+0 @P18@ INDI 
+1 NAME suri /sternbach/
+1 SEX F
+1 BIRT 
+1 ADDR surib@@optonline.net
+1 FAMS @F2@
+0 @P19@ INDI 
+1 NAME Chana /Sternbach/
+1 SEX F
+1 BIRT 
+1 FAMC @F2@
+0 @P20@ INDI 
+1 NAME Batsheva /Sternbach/
+1 SEX F
+1 BIRT 
+1 FAMC @F2@
+0 @P21@ INDI 
+1 NAME shmuela sammy /sternbach/
+1 SEX F
+1 BIRT 
+1 FAMS @F3@
+0 @P22@ INDI 
+1 NAME Liora Shlomit /sternbach/
+1 SEX F
+1 BIRT 
+2 DATE 11 DEC 2014
+1 FAMC @F3@
+0 @P23@ INDI 
+1 NAME Jessica Bernette /Sternbach/
+1 SEX F
+1 BIRT 
+1 FAMC @F4@
+1 FAMS @F15@
+0 @P24@ INDI 
+1 NAME Jane Elenor /Snyder/
+1 SEX F
+1 BIRT 
+2 DATE ABT 1937
+1 FAMC @F99@
+0 @P25@ INDI 
+1 DEAT 
+2 DATE 25 August 1985
+2 SOUR @S291543819@
+3 _APID 1,60525::72036223
+1 BURI 
+2 PLAC East Farmingdale, Suffolk County, New York, United States of America
+2 SOUR @S291543819@
+3 _APID 1,60525::72036223
+1 NAME Lottie /Rothstein Horvit Hurvitz/
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 18, Kings, New York; Roll: T625_1173; Page: 14B; Enumeration District: 1137
+3 _APID 1,6061::87175443
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Fall River Ward 3, Bristol, Massachusetts; Roll: T624_576; Page: 5B; Enumeration District: 0133; FHL microfilm: 1374589
+3 _APID 1,7884::133799267
+2 SOUR @S291543819@
+3 _APID 1,60525::72036223
+1 BIRT 
+2 DATE abt 1893
+2 PLAC Russia
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 18, Kings, New York; Roll: T625_1173; Page: 14B; Enumeration District: 1137
+3 _APID 1,6061::87175443
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Fall River Ward 3, Bristol, Massachusetts; Roll: T624_576; Page: 5B; Enumeration District: 0133; FHL microfilm: 1374589
+3 _APID 1,7884::133799267
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1896
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Fall River Ward 3, Bristol, Massachusetts; Roll: T624_576; Page: 5B; Enumeration District: 0133; FHL microfilm: 1374589
+3 _APID 1,7884::133799267
+1 RESI Marital Status: SingleRelation to Head of House: Daughter
+2 DATE 1910
+2 PLAC Fall River Ward 3, Bristol, Massachusetts, USA
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Fall River Ward 3, Bristol, Massachusetts; Roll: T624_576; Page: 5B; Enumeration District: 0133; FHL microfilm: 1374589
+3 _APID 1,7884::133799267
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1897
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 18, Kings, New York; Roll: T625_1173; Page: 14B; Enumeration District: 1137
+3 _APID 1,6061::87175443
+1 RESI Marital Status: MarriedRelation to Head: Wife
+2 DATE 1920
+2 PLAC Brooklyn Assembly District 18, Kings, New York, USA
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 18, Kings, New York; Roll: T625_1173; Page: 14B; Enumeration District: 1137
+3 _APID 1,6061::87175443
+1 SEX F
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=25
+1 FAMC @F89@
+1 FAMS @F11@
+0 @P26@ INDI 
+1 BIRT 
+2 DATE 31 Dec 1884
+2 PLAC Minsk, Minsk, Belarus
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 18, Kings, New York; Roll: T625_1173; Page: 14B; Enumeration District: 1137
+3 _APID 1,6061::87175442
+2 SOUR @S291544018@
+3 PAGE Registration State: New York; Registration County: Kings; Roll: 1765588; Draft Board: 087
+3 _APID 1,6482::33814305
+2 SOUR @S291544048@
+3 PAGE National Archives and Records Administration; Washington, DC; NAI Title: Index to Petitions for Naturalizations Filed in Federal, State, and Local Courts in New York City, 1792-1906; NAI Number: 57008
+4 CONC 02; Record Group Title: Records of District Courts of th
+3 _APID 1,2280::3367475
+2 SOUR @S291543819@
+3 _APID 1,60525::39152347
+1 DEAT 
+2 DATE ABT 1949
+2 PLAC Brooklyn, New York City, New York, USA
+2 SOUR @S291543819@
+3 _APID 1,60525::39152347
+1 BURI 
+2 PLAC Flushing, Queens County, New York, United States of America
+2 SOUR @S291543819@
+3 _APID 1,60525::39152347
+1 NAME Yaacov Tsvi Hirsch Jacob Jack /Rothstein/
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 18, Kings, New York; Roll: T625_1173; Page: 14B; Enumeration District: 1137
+3 _APID 1,6061::87175442
+2 SOUR @S291544018@
+3 PAGE Registration State: New York; Registration County: Kings; Roll: 1765588; Draft Board: 087
+3 _APID 1,6482::33814305
+2 SOUR @S291544048@
+3 PAGE National Archives and Records Administration; Washington, DC; NAI Title: Index to Petitions for Naturalizations Filed in Federal, State, and Local Courts in New York City, 1792-1906; NAI Number: 57008
+4 CONC 02; Record Group Title: Records of District Courts of th
+3 _APID 1,2280::3367475
+2 SOUR @S291543819@
+3 _APID 1,60525::39152347
+1 EVEN 
+2 TYPE Arrival
+2 DATE 28 Mar 1910
+2 PLAC New York
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 18, Kings, New York; Roll: T625_1173; Page: 14B; Enumeration District: 1137
+3 _APID 1,6061::87175442
+2 SOUR @S291544048@
+3 PAGE National Archives and Records Administration; Washington, DC; NAI Title: Index to Petitions for Naturalizations Filed in Federal, State, and Local Courts in New York City, 1792-1906; NAI Number: 57008
+4 CONC 02; Record Group Title: Records of District Courts of th
+3 _APID 1,2280::3367475
+1 EVEN 
+2 TYPE NaturalizationPetition
+2 DATE 26 Apr 1920
+2 PLAC New York, USA
+2 SOUR @S291544048@
+3 PAGE National Archives and Records Administration; Washington, DC; NAI Title: Index to Petitions for Naturalizations Filed in Federal, State, and Local Courts in New York City, 1792-1906; NAI Number: 57008
+4 CONC 02; Record Group Title: Records of District Courts of th
+3 _APID 1,2280::3367475
+1 RESI Relative Relation to Head: Wife
+2 PLAC Brooklyn, Kings, New York, USA
+2 SOUR @S291544018@
+3 PAGE Registration State: New York; Registration County: Kings; Roll: 1765588; Draft Board: 087
+3 _APID 1,6482::33814305
+1 RESI Marital Status: MarriedRelation to Head: Head
+2 DATE 1920
+2 PLAC Brooklyn Assembly District 18, Kings, New York, USA
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 18, Kings, New York; Roll: T625_1173; Page: 14B; Enumeration District: 1137
+3 _APID 1,6061::87175442
+1 SEX M
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=26
+1 NOTE {geni:about_me} I Shmule Sternbach was told by my father Yaakov Sternbach that Yaacov Tsvi Rothstein was a Tzanzer(sanz/sans) Chassid(Hassid) who became irreligous(when he came to america?).
+1 FAMC @F88@
+1 FAMS @F11@
+0 @P27@ INDI 
+1 BIRT 
+2 DATE 20 Sep 1886
+2 PLAC Sokoliki, L'vivs'ka, Ukraine
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: West Warwick, Kent, Rhode Island; Page: 26A; Enumeration District: 0019; FHL microfilm: 2341902
+3 _APID 1,6224::8665893
+2 SOUR @S291471639@
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; World War II Draft Cards (Fourth Registration) for the State of Rhode Island; Record Group Title: Records of the Selective Service System; Reco
+4 CONC rd Group Number: 147; Series Number: M1964
+3 _APID 1,1002::438665
+1 RESI Relation to Head: Head
+2 DATE 1942
+2 PLAC Kent, Rhode Island, USA
+2 SOUR @S291471639@
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; World War II Draft Cards (Fourth Registration) for the State of Rhode Island; Record Group Title: Records of the Selective Service System; Reco
+4 CONC rd Group Number: 147; Series Number: M1964
+3 _APID 1,1002::438665
+1 NAME Abraham Dovid /Sternbach/
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: West Warwick, Kent, Rhode Island; Page: 26A; Enumeration District: 0019; FHL microfilm: 2341902
+3 _APID 1,6224::8665893
+2 SOUR @S291471639@
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; World War II Draft Cards (Fourth Registration) for the State of Rhode Island; Record Group Title: Records of the Selective Service System; Reco
+4 CONC rd Group Number: 147; Series Number: M1964
+3 _APID 1,1002::438665
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1906
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: West Warwick, Kent, Rhode Island; Page: 26A; Enumeration District: 0019; FHL microfilm: 2341902
+3 _APID 1,6224::8665893
+1 RESI Marital Status: MarriedRelation to Head: Head
+2 DATE 1930
+2 PLAC West Warwick, Kent, Rhode Island, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: West Warwick, Kent, Rhode Island; Page: 26A; Enumeration District: 0019; FHL microfilm: 2341902
+3 _APID 1,6224::8665893
+1 DEAT 
+2 DATE 1 Jul 1979
+2 PLAC West Warwick, Kent, Rhode Island, USA
+1 SEX M
+1 DEAT 
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=27
+1 NOTE {geni:about_me} . Featured several times throughout articles from the Rhode Island Jewish Historical Association( www.rijha.org) for being the founder of The first Synagogue in West Warwick. See http:
+2 CONC //www.rijha.org/wp-content/uploads/2013/01/7-3-Nov-77-420-end.pdf for his primary feature, and index there for more instances of mention. The Sternbach's held regular Sabbath services at their home i
+2 CONC n West Warwick Rhode Island for six years. if you search using Ctrl+F throughout many documents for "Sternbach" you can find many more instances of Abraham's pictures and nice quotes.
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=3ef106b1-045c-4da4-b3e8-95ba18d5b190&tid=165562359&pid=27
+2 FORM jpg
+2 TITL Screen Shot 2014-11-03 at 10.10.50 PM
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=4dd11be0-8b6c-4ec0-abbe-d2fc83dab66a&tid=165562359&pid=27
+2 FORM jpg
+2 TITL Abraham At Eileen's Wedding
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=daf13fc0-c1a8-47a9-aed2-c473b42bdb82&tid=165562359&pid=27
+2 FORM jpg
+2 TITL Ahavath Shalom
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=fc12cd81-37a1-446c-b17a-77da5b48113a&tid=165562359&pid=27
+2 FORM jpg
+2 TITL Abraham in Temple Ahavath Shalom
+1 FAMC @F21@
+1 FAMS @F12@
+0 @P28@ INDI 
+1 RESI 
+2 DATE 1924
+2 PLAC New York, New York, USA
+2 SOUR @S291471633@
+3 PAGE New York City Municipal Archive; New York, New York, USA; 1924 NYC Voter List
+3 _APID 1,61536::1166549
+1 NAME Freda  Mircha (Minnie) /Markel/
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: West Warwick, Kent, Rhode Island; Page: 26A; Enumeration District: 0019; FHL microfilm: 2341902
+3 _APID 1,6224::8665883
+2 SOUR @S291470345@
+3 _APID 1,2469::56505590
+2 SOUR @S291467799@
+3 _APID 1,4721::2566073
+2 SOUR @S291470345@
+3 _APID 1,2469::1014355005
+2 SOUR @S291471633@
+3 PAGE New York City Municipal Archive; New York, New York, USA; 1924 NYC Voter List
+3 _APID 1,61536::1166549
+1 RESI 
+2 DATE 1938
+2 PLAC West Warwick, Rhode Island, USA
+2 SOUR @S291470345@
+3 _APID 1,2469::1014355005
+1 BIRT 
+2 DATE ABT 1889
+2 PLAC Sambor (near Lemberg)z, Lodzkie, Poland
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: West Warwick, Kent, Rhode Island; Page: 26A; Enumeration District: 0019; FHL microfilm: 2341902
+3 _APID 1,6224::8665883
+2 SOUR @S291467799@
+3 _APID 1,4721::2566073
+1 RESI Relation to Head of House: Wife
+2 DATE 1925
+2 PLAC West Warwick Ward 1, Kent, Rhode Island, USA
+2 SOUR @S291467799@
+3 _APID 1,4721::2566073
+1 RESI 
+2 DATE 1931
+2 PLAC Manhattan, New York, USA
+2 SOUR @S291470345@
+3 _APID 1,2469::56505590
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1907
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: West Warwick, Kent, Rhode Island; Page: 26A; Enumeration District: 0019; FHL microfilm: 2341902
+3 _APID 1,6224::8665883
+1 RESI Marital Status: MarriedRelation to Head: Wife
+2 DATE 1930
+2 PLAC West Warwick, Kent, Rhode Island, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: West Warwick, Kent, Rhode Island; Page: 26A; Enumeration District: 0019; FHL microfilm: 2341902
+3 _APID 1,6224::8665883
+1 DEAT 
+2 DATE 1975
+2 PLAC Providence, Providence, Rhode Island, USA
+1 SEX F
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=28
+1 FAMC @F19@
+1 FAMS @F12@
+0 @P29@ INDI 
+1 NAME Etti /Dreyfus/
+1 SEX F
+1 BIRT 
+1 FAMS @F5@
+0 @P30@ INDI 
+1 NAME Douglas /Wilson/
+1 SEX M
+1 BIRT 
+1 FAMS @F15@
+0 @P31@ INDI 
+1 NAME Elizabeth /Wilson/
+1 SEX F
+1 BIRT 
+1 FAMC @F15@
+0 @P32@ INDI 
+1 NAME Miriam S /Askovitz/
+2 SOUR @S291470533@
+3 PAGE New York City Municipal Archives; New York, New York; Borough: Brooklyn
+3 _APID 1,61406::903212186
+1 SEX F
+1 FAMS @F7@
+0 @P33@ INDI 
+1 NAME Aryeh-Leib /gurewitz/
+1 SEX M
+1 BIRT 
+1 FAMC @F29@
+1 FAMS @F16@
+0 @P34@ INDI 
+1 NAME Lea /gurewitz/
+1 SEX F
+1 BIRT 
+1 FAMC @F30@
+1 FAMS @F16@
+0 @P35@ INDI 
+1 NAME havatzelet sue /gurewitz/
+1 SEX F
+1 BIRT 
+1 FAMC @F8@
+1 FAMS @F18@
+0 @P36@ INDI 
+1 NAME ari /gurewitz/
+1 SEX M
+1 BIRT 
+1 FAMC @F8@
+1 FAMS @F9@
+0 @P37@ INDI 
+1 NAME aviva /gurewitz/
+1 SEX F
+1 BIRT 
+1 FAMC @F8@
+0 @P38@ INDI 
+1 NAME Yitchak ben yisrael /averbuch/
+1 SEX M
+1 BIRT 
+1 FAMS @F17@
+0 @P39@ INDI 
+1 NAME esther /schwarz/
+1 SEX F
+1 BIRT 
+2 DATE 10 OCT 1910
+1 ADDR shmuelsternbachgmail1992@@gmail.com
+1 FAMC @F31@
+1 FAMS @F17@
+0 @P40@ INDI 
+1 NAME edward /kershenbaum/
+1 SEX M
+1 BIRT 
+1 FAMS @F18@
+0 @P41@ INDI 
+1 NAME ariyana /kershenbaum/
+1 SEX F
+1 BIRT 
+1 FAMC @F18@
+0 @P42@ INDI 
+1 NAME liz /kershenbaum/
+1 SEX F
+1 BIRT 
+1 FAMC @F18@
+0 @P43@ INDI 
+1 NAME ayelet /kershenbaum/
+1 SEX F
+1 BIRT 
+1 FAMC @F18@
+0 @P44@ INDI 
+1 NAME Anat Ben-Shaul
+1 SEX F
+1 BIRT 
+1 FAMS @F9@
+0 @P45@ INDI 
+1 BIRT 
+2 DATE abt 1863
+2 PLAC Russia
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Fall River Ward 3, Bristol, Massachusetts; Roll: T624_576; Page: 5B; Enumeration District: 0133; FHL microfilm: 1374589
+3 _APID 1,7884::133799265
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Fall River, Bristol, Massachusetts; Page: 7A; Enumeration District: 0036; FHL microfilm: 2340623
+3 _APID 1,6224::14684180
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1892
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Fall River, Bristol, Massachusetts; Page: 7A; Enumeration District: 0036; FHL microfilm: 2340623
+3 _APID 1,6224::14684180
+1 RESI Marital Status: MarriedRelation to Head: Wife
+2 DATE 1930
+2 PLAC Fall River, Bristol, Massachusetts, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Fall River, Bristol, Massachusetts; Page: 7A; Enumeration District: 0036; FHL microfilm: 2340623
+3 _APID 1,6224::14684180
+1 NAME Eva /Hurvitz/
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Fall River Ward 3, Bristol, Massachusetts; Roll: T624_576; Page: 5B; Enumeration District: 0133; FHL microfilm: 1374589
+3 _APID 1,7884::133799265
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Fall River, Bristol, Massachusetts; Page: 7A; Enumeration District: 0036; FHL microfilm: 2340623
+3 _APID 1,6224::14684180
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1896
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Fall River Ward 3, Bristol, Massachusetts; Roll: T624_576; Page: 5B; Enumeration District: 0133; FHL microfilm: 1374589
+3 _APID 1,7884::133799265
+1 RESI Marital Status: MarriedRelation to Head of House: Wife
+2 DATE 1910
+2 PLAC Fall River Ward 3, Bristol, Massachusetts, USA
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Fall River Ward 3, Bristol, Massachusetts; Roll: T624_576; Page: 5B; Enumeration District: 0133; FHL microfilm: 1374589
+3 _APID 1,7884::133799265
+1 SEX F
+1 FAMS @F89@
+0 @P46@ INDI 
+1 BIRT 
+2 DATE 3 Jan 1865
+2 PLAC Russia
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Fall River Ward 3, Bristol, Massachusetts; Roll: T624_576; Page: 5B; Enumeration District: 0133; FHL microfilm: 1374589
+3 _APID 1,7884::10687636
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Fall River, Bristol, Massachusetts; Page: 7A; Enumeration District: 0036; FHL microfilm: 2340623
+3 _APID 1,6224::14684162
+2 SOUR @S291543916@
+3 PAGE National Archives and Records Administration (NARA); Washington, D.C.; Index to New England Naturalization Petitions, 1791-1906 (M1299); Microfilm Serial: M1299; Microfilm Roll: 78
+3 _APID 1,1629::3646690
+2 SOUR @S291543958@
+3 PAGE National Archives at Boston; Waltham, Massachusetts; ARC Title: Copies of Petitions and Records of Naturalization in New England Courts, 1939 - ca. 1942; NAI Number: 4752894; Record Group Title: R
+4 CONC ecords of the Immigration and Naturalization Service, 1787-2
+3 _APID 1,2361::1433660
+1 EVEN 
+2 TYPE Arrival
+2 DATE 23 Nov 1896
+2 PLAC New York
+2 SOUR @S291543958@
+3 PAGE National Archives at Boston; Waltham, Massachusetts; ARC Title: Copies of Petitions and Records of Naturalization in New England Courts, 1939 - ca. 1942; NAI Number: 4752894; Record Group Title: R
+4 CONC ecords of the Immigration and Naturalization Service, 1787-2
+3 _APID 1,2361::1433660
+1 EVEN 
+2 TYPE NaturalizationPetition
+2 DATE 16 Feb 1897
+2 PLAC Boston, Massachusetts, USA
+2 SOUR @S291543958@
+3 PAGE National Archives at Boston; Waltham, Massachusetts; ARC Title: Copies of Petitions and Records of Naturalization in New England Courts, 1939 - ca. 1942; NAI Number: 4752894; Record Group Title: R
+4 CONC ecords of the Immigration and Naturalization Service, 1787-2
+3 _APID 1,2361::1433660
+1 NAME Samuel /Hurvitz Hurwitz/
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Fall River Ward 3, Bristol, Massachusetts; Roll: T624_576; Page: 5B; Enumeration District: 0133; FHL microfilm: 1374589
+3 _APID 1,7884::10687636
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Fall River, Bristol, Massachusetts; Page: 7A; Enumeration District: 0036; FHL microfilm: 2340623
+3 _APID 1,6224::14684162
+2 SOUR @S291543916@
+3 PAGE National Archives and Records Administration (NARA); Washington, D.C.; Index to New England Naturalization Petitions, 1791-1906 (M1299); Microfilm Serial: M1299; Microfilm Roll: 78
+3 _APID 1,1629::3646690
+2 SOUR @S291543958@
+3 PAGE National Archives at Boston; Waltham, Massachusetts; ARC Title: Copies of Petitions and Records of Naturalization in New England Courts, 1939 - ca. 1942; NAI Number: 4752894; Record Group Title: R
+4 CONC ecords of the Immigration and Naturalization Service, 1787-2
+3 _APID 1,2361::1433660
+1 RESI 
+2 PLAC Maine, Massachusetts, New Hampshire, and Vermont
+2 SOUR @S291543916@
+3 PAGE National Archives and Records Administration (NARA); Washington, D.C.; Index to New England Naturalization Petitions, 1791-1906 (M1299); Microfilm Serial: M1299; Microfilm Roll: 78
+3 _APID 1,1629::3646690
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1894
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Fall River Ward 3, Bristol, Massachusetts; Roll: T624_576; Page: 5B; Enumeration District: 0133; FHL microfilm: 1374589
+3 _APID 1,7884::10687636
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Fall River, Bristol, Massachusetts; Page: 7A; Enumeration District: 0036; FHL microfilm: 2340623
+3 _APID 1,6224::14684162
+1 RESI Marital Status: MarriedRelation to Head: Head
+2 DATE 1930
+2 PLAC Fall River, Bristol, Massachusetts, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Fall River, Bristol, Massachusetts; Page: 7A; Enumeration District: 0036; FHL microfilm: 2340623
+3 _APID 1,6224::14684162
+1 RESI Marital Status: MarriedRelation to Head of House: Head
+2 DATE 1910
+2 PLAC Fall River Ward 3, Bristol, Massachusetts, USA
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Fall River Ward 3, Bristol, Massachusetts; Roll: T624_576; Page: 5B; Enumeration District: 0133; FHL microfilm: 1374589
+3 _APID 1,7884::10687636
+1 SEX M
+1 FAMS @F89@
+0 @P47@ INDI 
+1 BIRT 
+2 DATE 31 March 1914
+2 PLAC New York
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 18, Kings, New York; Roll: T625_1173; Page: 14B; Enumeration District: 1137
+3 _APID 1,6061::87175444
+1 DEAT 
+2 DATE May 1980
+1 NAME Leah Rothstein /Goldberg/
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 18, Kings, New York; Roll: T625_1173; Page: 14B; Enumeration District: 1137
+3 _APID 1,6061::87175444
+1 RESI Marital Status: SingleRelation to Head: Daughter
+2 DATE 1920
+2 PLAC Brooklyn Assembly District 18, Kings, New York, USA
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 18, Kings, New York; Roll: T625_1173; Page: 14B; Enumeration District: 1137
+3 _APID 1,6061::87175444
+1 SEX F
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=47
+1 FAMC @F11@
+1 FAMS @F87@
+0 @P48@ INDI 
+1 BIRT 
+2 DATE abt 1864
+2 PLAC Kalinin, (Gomel, Belarus)?
+2 SOUR @S291470359@
+3 PAGE Year: 1906; Arrival: New York, New York; Microfilm Serial: T715, 1897-1957; Microfilm Roll: Roll 0798; Line: 19; Page Number: 88
+3 _APID 1,7488::2147483647
+1 RESI 
+2 PLAC Warsten
+2 SOUR @S291470359@
+3 PAGE Year: 1906; Arrival: New York, New York; Microfilm Serial: T715, 1897-1957; Microfilm Roll: Roll 0798; Line: 19; Page Number: 88
+3 _APID 1,7488::2147483647
+1 EVEN 
+2 TYPE Departure
+2 PLAC Hamburg
+2 SOUR @S291470359@
+3 PAGE Year: 1906; Arrival: New York, New York; Microfilm Serial: T715, 1897-1957; Microfilm Roll: Roll 0798; Line: 19; Page Number: 88
+3 _APID 1,7488::2147483647
+1 EVEN 
+2 TYPE Arrival
+2 DATE 16 Nov 1906
+2 PLAC New York, New York
+2 SOUR @S291470359@
+3 PAGE Year: 1906; Arrival: New York, New York; Microfilm Serial: T715, 1897-1957; Microfilm Roll: Roll 0798; Line: 19; Page Number: 88
+3 _APID 1,7488::2147483647
+1 NAME Kalmen Kalman /Rothstein/
+2 SOUR @S291470359@
+3 PAGE Year: 1906; Arrival: New York, New York; Microfilm Serial: T715, 1897-1957; Microfilm Roll: Roll 0798; Line: 19; Page Number: 88
+3 _APID 1,7488::2147483647
+1 SEX M
+1 FAMS @F88@
+0 @P49@ INDI 
+1 NAME Leah Gutcheroff /Rothstein/
+1 SEX F
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=49
+1 FAMS @F88@
+0 @P50@ INDI 
+1 NAME Heschel Herman /Markel/
+1 SEX M
+1 BIRT 
+2 DATE 1862
+1 DEAT 
+2 DATE 1916
+1 FAMC @F33@
+1 FAMS @F19@
+0 @P51@ INDI 
+1 NAME Leah /Frei (Frye)/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMC @F32@
+1 FAMS @F19@
+0 @P52@ INDI 
+1 NAME Maurice Moshe Meyer /Sternbach/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMC @F12@
+1 FAMS @F14@
+0 @P53@ INDI 
+1 NAME florence Feiga /Sternbach/
+1 SEX F
+1 BIRT 
+1 FAMC @F12@
+1 FAMS @F27@
+0 @P54@ INDI 
+1 RESI 
+2 PLAC Kent, Rhode Island
+2 SOUR @S291472345@
+3 _APID 1,8939::1522622
+1 BIRT 
+2 DATE 10 Jul 1920
+2 PLAC Rhode Island, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: West Warwick, Kent, Rhode Island; Page: 26A; Enumeration District: 0019; FHL microfilm: 2341902
+3 _APID 1,6224::8665901
+2 SOUR @S291472331@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Rhode Island State College; Year: 1948
+3 _APID 1,1265::15651285
+2 SOUR @S291472345@
+3 _APID 1,8939::1522622
+1 _MILT 
+2 DATE 3 Sep 1942
+2 PLAC Providence, Rhode Island
+2 SOUR @S291472345@
+3 _APID 1,8939::1522622
+1 NAME Harold /Sternbach/
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: West Warwick, Kent, Rhode Island; Page: 26A; Enumeration District: 0019; FHL microfilm: 2341902
+3 _APID 1,6224::8665901
+2 SOUR @S291472331@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Rhode Island State College; Year: 1948
+3 _APID 1,1265::15651285
+2 SOUR @S291472345@
+3 _APID 1,8939::1522622
+1 RESI 
+2 DATE 1948
+2 PLAC Kingston, Rhode Island, USA
+2 SOUR @S291472331@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Rhode Island State College; Year: 1948
+3 _APID 1,1265::15651285
+1 RESI Marital Status: SingleRelation to Head: Son
+2 DATE 1930
+2 PLAC West Warwick, Kent, Rhode Island, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: West Warwick, Kent, Rhode Island; Page: 26A; Enumeration District: 0019; FHL microfilm: 2341902
+3 _APID 1,6224::8665901
+1 DEAT 
+2 DATE 2 Feb 1994
+2 PLAC Boston, Suffolk, Massachusetts, USA
+1 SEX M
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=54
+1 FAMC @F12@
+0 @P55@ INDI 
+1 BIRT 
+2 DATE 27 Jan 1912
+2 PLAC Manhattan, New York City, New York, USA
+2 SOUR @S291470359@
+3 PAGE Year: 1923; Arrival: New York, New York; Microfilm Serial: T715, 1897-1957; Microfilm Roll: Roll 3372; Line: 10; Page Number: 18
+3 _APID 1,7488::2147483647
+2 SOUR @S291470482@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+3 _APID 1,3693::59905719
+2 SOUR @S291470489@
+3 _APID 1,1732::337566244
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: West Warwick, Kent, Rhode Island; Page: 26A; Enumeration District: 0019; FHL microfilm: 2341902
+3 _APID 1,6224::8665904
+1 RESI Marital Status: SingleRelation to Head: Son
+2 DATE 1930
+2 PLAC West Warwick, Kent, Rhode Island, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: West Warwick, Kent, Rhode Island; Page: 26A; Enumeration District: 0019; FHL microfilm: 2341902
+3 _APID 1,6224::8665904
+1 NAME Maurice M /Sternbach/
+2 SOUR @S291470345@
+3 _APID 1,2469::1240570371
+2 SOUR @S291470359@
+3 PAGE Year: 1923; Arrival: New York, New York; Microfilm Serial: T715, 1897-1957; Microfilm Roll: Roll 3372; Line: 10; Page Number: 18
+3 _APID 1,7488::2147483647
+2 SOUR @S291470482@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+3 _APID 1,3693::59905719
+2 SOUR @S291470489@
+3 _APID 1,1732::337566244
+2 SOUR @S291470498@
+3 PAGE City: Delray Beach; State: Florida; Year(s): 1995-1996
+3 _APID 1,7339::219245476
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: West Warwick, Kent, Rhode Island; Page: 26A; Enumeration District: 0019; FHL microfilm: 2341902
+3 _APID 1,6224::8665904
+1 RESI 
+2 DATE 1995-1996
+2 PLAC Delray Beach, Florida, USA
+2 SOUR @S291470498@
+3 PAGE City: Delray Beach; State: Florida; Year(s): 1995-1996
+3 _APID 1,7339::219245476
+1 RESI 
+2 PLAC Delray Beach, Florida, USA
+2 SOUR @S291470489@
+3 _APID 1,1732::337566244
+1 RESI 
+2 DATE 1952-1953
+2 PLAC Rhode Island
+2 SOUR @S291470482@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+3 _APID 1,3693::59905719
+1 DEAT 
+2 DATE 20 Feb 1999
+2 PLAC Westport, Fairfield, Connecticut, USA
+2 SOUR @S291470482@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+3 _APID 1,3693::59905719
+1 EVEN 
+2 TYPE Departure
+2 PLAC Cherbourg
+2 SOUR @S291470359@
+3 PAGE Year: 1923; Arrival: New York, New York; Microfilm Serial: T715, 1897-1957; Microfilm Roll: Roll 3372; Line: 10; Page Number: 18
+3 _APID 1,7488::2147483647
+1 EVEN 
+2 TYPE Arrival
+2 DATE 14 Sep 1923
+2 PLAC New York, New York
+2 SOUR @S291470359@
+3 PAGE Year: 1923; Arrival: New York, New York; Microfilm Serial: T715, 1897-1957; Microfilm Roll: Roll 3372; Line: 10; Page Number: 18
+3 _APID 1,7488::2147483647
+1 RESI 
+2 DATE 1940
+2 PLAC West Warwick, Rhode Island, USA
+2 SOUR @S291470345@
+3 _APID 1,2469::1240570371
+1 SEX M
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=55
+1 FAMC @F12@
+1 FAMS @F85@
+0 @P56@ INDI 
+1 BIRT 
+2 DATE 12 Jul 1923
+2 PLAC West Warwick, Kent, Rhode Island, USA
+2 SOUR @S291467799@
+3 _APID 1,4721::2566077
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: West Warwick, Kent, Rhode Island; Roll: m-t0627-03759; Page: 1A; Enumeration District: 2-44
+3 _APID 1,2442::109595889
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: West Warwick, Kent, Rhode Island; Page: 26A; Enumeration District: 0019; FHL microfilm: 2341902
+3 _APID 1,6224::8665909
+1 RESI Marital Status: SingleRelation to Head: Son
+2 DATE 1930
+2 PLAC West Warwick, Kent, Rhode Island, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: West Warwick, Kent, Rhode Island; Page: 26A; Enumeration District: 0019; FHL microfilm: 2341902
+3 _APID 1,6224::8665909
+1 NAME Marvin Shlomo /Sternbach/
+2 SOUR @S291467799@
+3 _APID 1,4721::2566077
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: West Warwick, Kent, Rhode Island; Roll: m-t0627-03759; Page: 1A; Enumeration District: 2-44
+3 _APID 1,2442::109595889
+2 SOUR @S291467820@
+3 PAGE Box #: 353; Box Info: Steinberg, Martin - Stoycoff; Archive Collection #: I-52
+3 _APID 1,2125::104444
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: West Warwick, Kent, Rhode Island; Page: 26A; Enumeration District: 0019; FHL microfilm: 2341902
+3 _APID 1,6224::8665909
+1 DEAT 
+2 DATE 21 Apr 1945
+2 PLAC Battle of Okinawa, World War II
+1 RESI Relation to Head of House: Parents
+2 PLAC Phenix, Arizona, United States
+2 SOUR @S291467820@
+3 PAGE Box #: 353; Box Info: Steinberg, Martin - Stoycoff; Archive Collection #: I-52
+3 _APID 1,2125::104444
+1 _MILT 
+2 DATE 8 Jun 1945
+2 SOUR @S291467820@
+3 PAGE Box #: 353; Box Info: Steinberg, Martin - Stoycoff; Archive Collection #: I-52
+3 _APID 1,2125::104444
+1 RESI 
+2 DATE 1935
+2 PLAC West Warwick, Kent, Rhode Island
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: West Warwick, Kent, Rhode Island; Roll: m-t0627-03759; Page: 1A; Enumeration District: 2-44
+3 _APID 1,2442::109595889
+1 RESI Marital Status: SingleRelation to Head: Son
+2 DATE 1940
+2 PLAC West Warwick, Kent, Rhode Island, USA
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: West Warwick, Kent, Rhode Island; Roll: m-t0627-03759; Page: 1A; Enumeration District: 2-44
+3 _APID 1,2442::109595889
+1 RESI Relation to Head of House: Son
+2 DATE 1925
+2 PLAC West Warwick Ward 1, Kent, Rhode Island, USA
+2 SOUR @S291467799@
+3 _APID 1,4721::2566077
+1 SEX M
+1 DEAT 
+2 DATE 1945
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=56
+1 NOTE {geni:about_me} Newspaper Headline: Marvin Sternbach Killed on Okinawa (http://www.rijha.org/wp-content/uploads/voiceandherald/volumes-1945/06.08.1945.pdf)
+1 FAMC @F12@
+0 @P57@ INDI 
+1 RESI 
+2 DATE 1936
+2 PLAC West Warwick, Rhode Island, USA
+2 SOUR @S291470345@
+3 _APID 1,2469::831672612
+1 NAME Chaim Yerucham (Raymond) /Sternbach/
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: West Warwick, Kent, Rhode Island; Page: 26A; Enumeration District: 0019; FHL microfilm: 2341902
+3 _APID 1,6224::8665926
+2 SOUR @S291470489@
+3 _APID 1,1732::387720819
+2 SOUR @S291470482@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+3 _APID 1,3693::59905693
+2 SOUR @S291470345@
+3 _APID 1,2469::831672612
+1 BIRT 
+2 DATE 20 Sep 1915
+2 PLAC West Warwick, Kent, Rhode Island, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: West Warwick, Kent, Rhode Island; Page: 26A; Enumeration District: 0019; FHL microfilm: 2341902
+3 _APID 1,6224::8665926
+2 SOUR @S291470489@
+3 _APID 1,1732::387720819
+2 SOUR @S291470482@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+3 _APID 1,3693::59905693
+1 RESI 
+2 DATE Before 1951
+2 PLAC Rhode Island
+2 SOUR @S291470482@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+3 _APID 1,3693::59905693
+1 DEAT 
+2 DATE 5 Oct 1993
+2 PLAC West Warwick, Kent, Rhode Island, USA
+2 SOUR @S291470482@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+3 _APID 1,3693::59905693
+1 RESI 
+2 PLAC West Warwick, Rhode Island, USA
+2 SOUR @S291470489@
+3 _APID 1,1732::387720819
+1 RESI Marital Status: SingleRelation to Head: Son
+2 DATE 1930
+2 PLAC West Warwick, Kent, Rhode Island, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: West Warwick, Kent, Rhode Island; Page: 26A; Enumeration District: 0019; FHL microfilm: 2341902
+3 _APID 1,6224::8665926
+1 SEX M
+1 DEAT 
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=57
+1 FAMC @F12@
+1 FAMS @F13@
+0 @P58@ INDI 
+1 NAME Chaim Hyman Dov Ber /Sternbach/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=58
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=a5e88c65-fa55-44c3-86ff-b0bd38e840c5&tid=165562359&pid=58
+2 FORM jpg
+2 TITL Chaim Ber Sternbach
+1 FAMS @F21@
+1 FAMS @F22@
+0 @P59@ INDI 
+1 DEAT 
+2 DATE 1956
+2 SOUR @S291543819@
+3 _APID 1,60525::92021523
+1 BURI 
+2 PLAC Ridgewood, Queens County, New York, United States of America
+2 SOUR @S291543819@
+3 _APID 1,60525::92021523
+1 NAME Feige /Tranter Treiber/
+2 SOUR @S291543819@
+3 _APID 1,60525::92021523
+1 BIRT 
+2 PLAC Turka, L'viv, Ukraine
+1 MARR 
+2 DATE 1880
+2 PLAC Drohobycz, Drogobych, L'viv, Ukraine
+1 SEX F
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=59
+1 FAMC @F100@
+1 FAMS @F21@
+0 @P60@ INDI 
+1 NAME Dorothy /Sternbach/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMS @F13@
+0 @P61@ INDI 
+1 NAME florence /buchwald/
+1 SEX F
+1 BIRT 
+1 FAMS @F14@
+0 @P62@ INDI 
+1 NAME Hinda Lea /Sternbach/
+1 SEX F
+1 EVEN 
+2 TYPE Misc Event
+2 DATE 20 JAN 1930
+1 BIRT 
+2 DATE 14 NOV 1942
+1 ADDR hindah@@savion.huji.ac.il
+1 FAMC @F14@
+1 FAMS @F42@
+0 @P63@ INDI 
+1 NAME Dina /Sternbach/
+1 SEX F
+1 BIRT 
+2 DATE ABT 1946
+1 ADDR Dinaberger@@gmail.com
+1 NOTE {geni:about_me} Dina was named the 1964 Betty Crocker Homemaker of Tomorrow. Featured in this newspaper article:http://www.rijha.org/wp-content/uploads/voiceandherald/1974/1964-5-22.pdf
+1 FAMC @F14@
+1 FAMS @F43@
+0 @P64@ INDI 
+1 NAME Marna Rena /Sternbach/
+1 SEX F
+1 BIRT 
+1 FAMC @F14@
+1 FAMS @F46@
+0 @P65@ INDI 
+1 NAME david /futtersak/
+1 SEX M
+1 BIRT 
+1 RESI 
+1 FAMS @F27@
+0 @P66@ INDI 
+1 NAME Linda /Futtersak/
+1 SEX F
+1 BIRT 
+1 FAMC @F27@
+1 FAMS @F47@
+0 @P67@ INDI 
+1 NAME William /Futtersak/
+1 SEX M
+1 BIRT 
+1 FAMC @F27@
+1 FAMS @F28@
+0 @P68@ INDI 
+1 NAME Marvin /Futtersak/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMC @F27@
+0 @P69@ INDI 
+1 NAME Mordechai Ze'ev /gurewitz/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMS @F29@
+0 @P70@ INDI 
+1 NAME mina /gurewitz/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMS @F29@
+0 @P71@ INDI 
+1 NAME Aron /asia/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMC @F101@
+1 FAMS @F30@
+0 @P72@ INDI 
+1 NAME esther /asia/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMS @F30@
+0 @P73@ INDI 
+1 NAME chaim /schwarz/
+1 SEX M
+1 BIRT 
+1 FAMS @F31@
+0 @P74@ INDI 
+1 NAME bluma /levi/
+1 SEX F
+1 BIRT 
+1 FAMS @F31@
+0 @P75@ INDI 
+1 NAME yisroel /Averbuch/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMC @F17@
+1 FAMS @F102@
+0 @P76@ INDI 
+1 NAME Chaim /Averbuch/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMC @F17@
+1 FAMS @F103@
+0 @P77@ INDI 
+1 NAME Miriam /Averbuch/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMC @F17@
+1 FAMS @F104@
+0 @P78@ INDI 
+1 NAME Shoshana /Averbuch/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMC @F17@
+1 FAMS @F105@
+0 @P79@ INDI 
+1 NAME Yaakov /Averbuch/
+1 SEX M
+1 BIRT 
+1 FAMC @F102@
+0 @P80@ INDI 
+1 NAME Chagay /Averbuch/
+1 SEX M
+1 BIRT 
+1 FAMC @F102@
+0 @P81@ INDI 
+1 NAME Tzvi /Averbuch/
+1 SEX M
+1 BIRT 
+1 FAMC @F102@
+0 @P82@ INDI 
+1 NAME Anat /Averbuch/
+1 SEX F
+1 BIRT 
+1 FAMC @F102@
+0 @P83@ INDI 
+1 NAME Osnat /Averbuch/
+1 SEX F
+1 BIRT 
+1 FAMC @F103@
+0 @P84@ INDI 
+1 NAME Uri /Averbuch/
+1 SEX M
+1 BIRT 
+1 FAMC @F103@
+0 @P85@ INDI 
+1 NAME Tamar /Averbuch/
+1 SEX F
+1 BIRT 
+1 FAMC @F103@
+0 @P86@ INDI 
+1 SEX F
+1 BIRT 
+1 NAME Michal /Averbuch/
+1 FAMC @F103@
+0 @P87@ INDI 
+1 NAME Iddit
+1 SEX M
+1 BIRT 
+1 FAMC @F104@
+0 @P88@ INDI 
+1 NAME Nethaniel
+1 SEX M
+1 BIRT 
+1 FAMC @F104@
+0 @P89@ INDI 
+1 NAME Tomi
+1 SEX M
+1 BIRT 
+1 FAMC @F105@
+0 @P90@ INDI 
+1 NAME Eddy
+1 SEX M
+1 BIRT 
+1 FAMC @F105@
+0 @P91@ INDI 
+1 NAME Jeno
+1 SEX M
+1 BIRT 
+1 FAMC @F105@
+0 @P92@ INDI 
+1 NAME Mickey
+1 SEX M
+1 BIRT 
+1 FAMC @F105@
+0 @P93@ INDI 
+1 NAME Danny
+1 SEX M
+1 BIRT 
+1 FAMC @F105@
+0 @P94@ INDI 
+1 NAME Charles /Rothstein/
+1 SEX M
+1 BIRT 
+1 DEAT 
+0 @P95@ INDI 
+1 NAME Yoseph /Frei/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMS @F32@
+0 @P96@ INDI 
+1 NAME Toba Rivka /Frei/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMS @F32@
+0 @P97@ INDI 
+1 NAME Avraham Chaim /Markel/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMC @F19@
+0 @P98@ INDI 
+1 NAME Masha /Markel/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMC @F19@
+1 FAMS @F34@
+0 @P99@ INDI 
+1 NAME Moishe Myer /Markel/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMC @F19@
+1 FAMS @F20@
+0 @P100@ INDI 
+1 NAME Sarah /Tachner/
+1 SEX F
+1 BIRT 
+1 FAMC @F19@
+1 FAMS @F35@
+1 FAMS @F106@
+0 @P101@ INDI 
+1 NAME Hannah /Markel/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMC @F19@
+0 @P102@ INDI 
+1 NAME Pessel /Markel/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMC @F19@
+0 @P103@ INDI 
+1 NAME Florence /Markel/
+1 SEX F
+1 BIRT 
+1 DEAT 
+2 DATE 1990
+1 FAMC @F19@
+1 FAMS @F37@
+0 @P104@ INDI 
+1 NAME florence murmelstein /markel/
+1 SEX F
+1 BIRT 
+1 FAMC @F19@
+0 @P105@ INDI 
+1 NAME avraham chaim /markel/
+1 SEX M
+1 BIRT 
+1 FAMC @F19@
+0 @P106@ INDI 
+1 NAME Dov /Markel/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMC @F55@
+1 FAMS @F33@
+0 @P107@ INDI 
+1 NAME Wife /Markel/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMS @F33@
+0 @P108@ INDI 
+1 NAME Vigdor /Tachner/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMS @F34@
+0 @P109@ INDI 
+1 NAME Etti /Tachner/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMC @F34@
+0 @P110@ INDI 
+1 NAME Helen /Brandt/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMS @F20@
+0 @P111@ INDI 
+1 NAME Thelma /Salmanson/
+1 SEX F
+1 BIRT 
+1 FAMC @F20@
+1 FAMS @F56@
+1 FAMS @F57@
+0 @P112@ INDI 
+1 NAME Anne /Schlusselberg/
+1 SEX F
+1 BIRT 
+1 FAMC @F20@
+1 FAMS @F58@
+0 @P113@ INDI 
+1 NAME Frieda /Markel/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMC @F20@
+0 @P114@ INDI 
+1 NAME Kay /Kaplan/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMC @F20@
+1 FAMS @F59@
+0 @P115@ INDI 
+1 NAME Joseph /Markel/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMC @F20@
+1 FAMS @F107@
+0 @P116@ INDI 
+1 NAME Max /Tachner/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMS @F35@
+0 @P117@ INDI 
+1 NAME Harold /Goodman/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMC @F106@
+1 FAMS @F36@
+0 @P118@ INDI 
+1 NAME Aron Dovid /Mermelstein/
+1 SEX M
+1 DEAT 
+1 BIRT 
+2 DATE 1932
+2 PLAC Munkacs
+1 DEAT 
+2 DATE 1990
+1 FAMS @F37@
+0 @P119@ INDI 
+1 NAME Harold Elliot /Mermel/
+1 SEX M
+1 GRAD 
+2 PLAC University of Miami
+1 EVEN 
+2 TYPE Misc Event
+2 DATE 20 JAN 1930
+1 BIRT 
+2 DATE 11 NOV 1940
+1 OCCU Owner
+2 DATE 1982
+2 PLAC Champagne Import & Export Inc.
+1 RESI 
+1 ADDR halmermel@@aol.com
+1 EVEN 
+2 TYPE Misc Event
+2 DATE 2 OCT 1957
+2 PLAC Orlando
+1 EVEN 
+2 TYPE Misc Event
+2 DATE 2 OCT 1957
+1 EVEN 
+2 TYPE Misc Event
+2 DATE 13 MAR 1970
+2 PLAC Miami
+1 EVEN 
+2 TYPE Misc Event
+2 DATE 2 SEP 2007
+2 PLAC Miami, Fla.
+1 NOTE {geni:hair_color} Other
+2 CONT {geni:eye_color} Brown
+1 FAMC @F37@
+1 FAMS @F38@
+1 FAMS @F108@
+0 @P120@ INDI 
+1 NAME Lea /Mermelstein/
+1 SEX F
+1 GRAD 
+2 PLAC Roger Williams
+1 EVEN 
+2 TYPE Misc Event
+2 DATE 20 JAN 1930
+1 BIRT 
+2 DATE 24 MAY 1945
+1 RESI 
+1 ADDR leahmermel@@gmail.com
+1 GRAD 
+2 PLAC Hope high school
+1 GRAD 
+2 PLAC Bryant and USF
+1 GRAD 
+2 PLAC Sackett street
+1 EVEN 
+2 TYPE Misc Event
+2 DATE 17 JAN 2004
+1 FAMC @F37@
+1 FAMS @F65@
+1 FAMS @F66@
+1 FAMS @F109@
+0 @P121@ INDI 
+1 BIRT 
+2 DATE abt 1862
+2 PLAC Poland
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 10, New York, New York; Roll: T624_1009; Page: 9B; Enumeration District: 0198; FHL microfilm: 1375022
+3 _APID 1,7884::110841199
+2 SOUR @S291545811@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1905; Election District: A.D. 08 E.D. 05; City: Manhattan; County: New York; Page: 65
+3 _APID 1,7364::982080
+2 SOUR @S291545868@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Page: 20; Enumeration District: 0286; FHL microfilm: 1241094
+3 _APID 1,7602::38107024
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1890
+2 SOUR @S291545868@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Page: 20; Enumeration District: 0286; FHL microfilm: 1241094
+3 _APID 1,7602::38107024
+1 RESI Marital Status: MarriedRelation to Head: Wife
+2 DATE 1900
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291545868@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Page: 20; Enumeration District: 0286; FHL microfilm: 1241094
+3 _APID 1,7602::38107024
+1 NAME Jenny Jaime /Sternbach/
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 10, New York, New York; Roll: T624_1009; Page: 9B; Enumeration District: 0198; FHL microfilm: 1375022
+3 _APID 1,7884::110841199
+2 SOUR @S291545811@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1905; Election District: A.D. 08 E.D. 05; City: Manhattan; County: New York; Page: 65
+3 _APID 1,7364::982080
+2 SOUR @S291545868@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Page: 20; Enumeration District: 0286; FHL microfilm: 1241094
+3 _APID 1,7602::38107024
+1 RESI Relationship to Head: Wife
+2 DATE 1905
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291545811@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1905; Election District: A.D. 08 E.D. 05; City: Manhattan; County: New York; Page: 65
+3 _APID 1,7364::982080
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1891
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 10, New York, New York; Roll: T624_1009; Page: 9B; Enumeration District: 0198; FHL microfilm: 1375022
+3 _APID 1,7884::110841199
+1 RESI Marital Status: MarriedRelation to Head of House: Wife
+2 DATE 1910
+2 PLAC Manhattan Ward 10, New York, New York, USA
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 10, New York, New York; Roll: T624_1009; Page: 9B; Enumeration District: 0198; FHL microfilm: 1375022
+3 _APID 1,7884::110841199
+1 SEX F
+1 DEAT 
+1 FAMC @F21@
+1 FAMS @F40@
+0 @P122@ INDI 
+1 BIRT 
+2 DATE Mar 1893
+2 PLAC Sokoliki, L'viv, Ukraine
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 1B; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999074
+1 NAME Malkah "Molly" /Sternbach/
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 1B; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999074
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1907
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 1B; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999074
+1 RESI Marital Status: MarriedRelation to Head: Wife
+2 DATE 1930
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 1B; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999074
+1 SEX F
+1 DEAT 
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=122
+1 FAMC @F21@
+1 FAMS @F41@
+1 FAMS @F92@
+1 FAMS @F93@
+0 @P123@ INDI 
+1 BIRT 
+2 DATE abt 1890
+2 PLAC Austria
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m-t0627-02559; Page: 1B; Enumeration District: 24-499C
+3 _APID 1,2442::2699763
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 6A; Enumeration District: 1438; FHL microfilm: 2341260
+3 _APID 1,6224::39187336
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1912
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 6A; Enumeration District: 1438; FHL microfilm: 2341260
+3 _APID 1,6224::39187336
+1 RESI Marital Status: MarriedRelation to Head: Head
+2 DATE 1930
+2 PLAC Brooklyn, Kings, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 6A; Enumeration District: 1438; FHL microfilm: 2341260
+3 _APID 1,6224::39187336
+1 NAME Yitzchak Isaac Isic /Sternbach/
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m-t0627-02559; Page: 1B; Enumeration District: 24-499C
+3 _APID 1,2442::2699763
+2 SOUR @S291471713@
+3 _APID 1,60901::639049449
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 6A; Enumeration District: 1438; FHL microfilm: 2341260
+3 _APID 1,6224::39187336
+1 RESI 
+2 DATE 1935
+2 PLAC New York, Kings, New York
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m-t0627-02559; Page: 1B; Enumeration District: 24-499C
+3 _APID 1,2442::2699763
+1 RESI Marital Status: MarriedRelation to Head: Head
+2 DATE 1940
+2 PLAC New York, Kings, New York, USA
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m-t0627-02559; Page: 1B; Enumeration District: 24-499C
+3 _APID 1,2442::2699763
+1 SEX M
+1 DEAT 
+1 FAMC @F21@
+1 FAMS @F25@
+1 FAMS @F26@
+0 @P124@ INDI 
+1 BIRT 
+2 PLAC Dobramil? Near Sokoliki
+1 NAME Yaakov /Treiber/
+1 SEX M
+1 DEAT 
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=124
+1 FAMS @F100@
+0 @P125@ INDI 
+1 NAME Yichiel Michel Mechel "Max" /Sternbach/
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999390
+2 SOUR @S291470073@
+3 PAGE Cited in the family tree "Hodes Shatzkes Rabbinic Ancestry " created by "yehonasan"
+3 NOTE https://www.ancestry.com/family-tree/tree/85453052/person/34517749711
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=125
+1 EVEN 
+2 TYPE Arrival
+2 DATE 30 Oct 1920
+2 PLAC New York, New York
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999390
+2 SOUR @S291470073@
+3 PAGE Cited in the family tree "Koffler-Kessler Family Tree" created by "springvalleygirl"
+3 NOTE https://www.ancestry.com/family-tree/tree/4909251/person/-1403067012
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=125
+1 RESI Marital Status: MarriedRelation to Head: Head
+2 DATE 1940
+2 PLAC New York, USA
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: New York, Bronx, New York; Roll: ; Page: ; Enumeration District: .
+3 NOTE https://search.ancestry.com/cgi-bin/sse.dll?db=1940usfedcen&h=2610670&ti=0&indiv=try&gss=pt
+3 _APID 1,2442::2610670
+2 SOUR @S291470073@
+3 PAGE Cited in the family tree "Hodes Shatzkes Rabbinic Ancestry " created by "yehonasan"
+3 NOTE https://www.ancestry.com/family-tree/tree/85453052/person/34517749711
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=125
+1 BIRT 
+2 DATE 15 Dec 1899
+2 PLAC Socoliki, Poland
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999390
+1 RESI Marital Status: MarriedRelation to Head: Head
+2 DATE 1930
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999390
+1 SEX M
+1 DEAT 
+2 DATE 21 JUL 1942
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=125
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=69c76c70-fb79-4916-b17f-98db3b57b351&tid=165562359&pid=125
+2 FORM jpg
+2 TITL Tante Roses
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=8338c2ad-58bc-4628-96a7-c35ea6fce7d5&tid=165562359&pid=125
+2 FORM jpg
+2 TITL iPhone Photo
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=848c1bf6-d83d-43db-93fc-b87d6d0b8e2b&tid=165562359&pid=125
+2 FORM jpg
+2 TITL Max in the Galician Army
+1 FAMC @F21@
+1 FAMS @F24@
+0 @P126@ INDI 
+1 BIRT 
+2 DATE 08 Jun 1897
+2 PLAC Poland
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: East Greenwich, Kent, Rhode Island; Page: 9A; Enumeration District: 0007; FHL microfilm: 2341902
+3 _APID 1,6224::8635361
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1912
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: East Greenwich, Kent, Rhode Island; Page: 9A; Enumeration District: 0007; FHL microfilm: 2341902
+3 _APID 1,6224::8635361
+1 RESI Marital Status: MarriedRelation to Head: Head
+2 DATE 1930
+2 PLAC East Greenwich, Kent, Rhode Island, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: East Greenwich, Kent, Rhode Island; Page: 9A; Enumeration District: 0007; FHL microfilm: 2341902
+3 _APID 1,6224::8635361
+1 NAME Jacob /Sternbach/
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: East Greenwich, Kent, Rhode Island; Page: 9A; Enumeration District: 0007; FHL microfilm: 2341902
+3 _APID 1,6224::8635361
+1 DEAT 
+2 DATE Sep 1974
+2 PLAC Philadelphia, Pennsylvania, USA
+1 SEX M
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=126
+1 FAMC @F21@
+1 FAMS @F23@
+0 @P127@ INDI 
+1 BIRT 
+2 DATE abt 1902
+1 NAME Itzik /Sternbach/
+1 SEX M
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=127
+1 FAMC @F21@
+0 @P128@ INDI 
+1 BIRT 
+2 DATE abt 1888
+2 PLAC Beniowa, Podkarpackie, Poland
+1 NAME Rivka /Sternbach/
+1 SEX F
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=128
+1 FAMC @F21@
+0 @P129@ INDI 
+1 BIRT 
+2 PLAC Russia/Poland
+1 DEAT 
+2 PLAC Russia/Poland
+1 NAME Miriam /Sternbach/
+1 SEX F
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=129
+1 FAMC @F21@
+0 @P130@ INDI 
+1 NAME 2nd wife? /Sternbach/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMS @F22@
+0 @P131@ INDI 
+1 NAME Lilian "Lilly" /Sternbach Feiler/
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: East Greenwich, Kent, Rhode Island; Page: 9A; Enumeration District: 0007; FHL microfilm: 2341902
+3 _APID 1,6224::8635340
+2 SOUR @S291471713@
+3 _APID 1,60901::787165292
+1 BIRT 
+2 DATE abt 1902
+2 PLAC Poland
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: East Greenwich, Kent, Rhode Island; Page: 9A; Enumeration District: 0007; FHL microfilm: 2341902
+3 _APID 1,6224::8635340
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1920
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: East Greenwich, Kent, Rhode Island; Page: 9A; Enumeration District: 0007; FHL microfilm: 2341902
+3 _APID 1,6224::8635340
+1 RESI Marital Status: MarriedRelation to Head: Wife
+2 DATE 1930
+2 PLAC East Greenwich, Kent, Rhode Island, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: East Greenwich, Kent, Rhode Island; Page: 9A; Enumeration District: 0007; FHL microfilm: 2341902
+3 _APID 1,6224::8635340
+1 SEX F
+1 DEAT 
+1 FAMS @F23@
+0 @P132@ INDI 
+1 BIRT 
+2 DATE 14 Mar 1934
+2 PLAC E Greenwich, Rhode Island
+2 SOUR @S291471713@
+3 _APID 1,60901::37165292
+1 DEAT 
+2 DATE 21 Aug 1996
+2 SOUR @S291471713@
+3 _APID 1,60901::37165292
+1 NAME Irving /Sternbach/
+2 SOUR @S291471713@
+3 _APID 1,60901::37165292
+1 SEX M
+1 FAMC @F23@
+1 FAMS @F110@
+0 @P133@ INDI 
+1 BIRT 
+2 DATE 1931
+1 DEAT 
+2 DATE 1945
+1 SEX F
+1 NAME Edith Toby /Sternbach/
+1 FAMC @F23@
+0 @P134@ INDI 
+1 BIRT 
+2 DATE abt 1928
+2 PLAC Rhode Island
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: East Greenwich, Kent, Rhode Island; Page: 9A; Enumeration District: 0007; FHL microfilm: 2341902
+3 _APID 1,6224::8635348
+1 RESI Marital Status: SingleRelation to Head: Daughter
+2 DATE 1930
+2 PLAC East Greenwich, Kent, Rhode Island, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: East Greenwich, Kent, Rhode Island; Page: 9A; Enumeration District: 0007; FHL microfilm: 2341902
+3 _APID 1,6224::8635348
+1 NAME Helen /Sternbach/
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: East Greenwich, Kent, Rhode Island; Page: 9A; Enumeration District: 0007; FHL microfilm: 2341902
+3 _APID 1,6224::8635348
+1 SEX F
+1 DEAT 
+1 FAMC @F23@
+1 FAMS @F67@
+0 @P135@ INDI 
+1 BIRT 
+2 DATE abt 1925
+2 PLAC Rhode Island
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: East Greenwich, Kent, Rhode Island; Page: 9A; Enumeration District: 0007; FHL microfilm: 2341902
+3 _APID 1,6224::8635343
+1 RESI Marital Status: SingleRelation to Head: Daughter
+2 DATE 1930
+2 PLAC East Greenwich, Kent, Rhode Island, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: East Greenwich, Kent, Rhode Island; Page: 9A; Enumeration District: 0007; FHL microfilm: 2341902
+3 _APID 1,6224::8635343
+1 NAME Florence /Sternbach/
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: East Greenwich, Kent, Rhode Island; Page: 9A; Enumeration District: 0007; FHL microfilm: 2341902
+3 _APID 1,6224::8635343
+1 SEX F
+1 DEAT 
+1 FAMC @F23@
+0 @P136@ INDI 
+1 BIRT 
+2 DATE abt 1927
+2 PLAC Rhode Island
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: East Greenwich, Kent, Rhode Island; Page: 9A; Enumeration District: 0007; FHL microfilm: 2341902
+3 _APID 1,6224::8635347
+1 RESI Marital Status: SingleRelation to Head: Son
+2 DATE 1930
+2 PLAC East Greenwich, Kent, Rhode Island, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: East Greenwich, Kent, Rhode Island; Page: 9A; Enumeration District: 0007; FHL microfilm: 2341902
+3 _APID 1,6224::8635347
+1 NAME Morris David /Sternbach/
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: East Greenwich, Kent, Rhode Island; Page: 9A; Enumeration District: 0007; FHL microfilm: 2341902
+3 _APID 1,6224::8635347
+1 SEX M
+1 DEAT 
+1 FAMC @F23@
+0 @P137@ INDI 
+1 BIRT 
+2 DATE 10 Dec 1900
+2 PLAC Porhar, Galicia, Austria-, Poland
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999428
+1 DEAT 
+2 DATE 14 Jul 1978
+2 PLAC Miami, Miami-dade, Florida, United States of America
+1 NAME Bertha, Basia Baila, /Sternbach Koenig/
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999428
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1921
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999428
+1 RESI Marital Status: MarriedRelation to Head: Wife
+2 DATE 1930
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999428
+1 SEX F
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=137
+1 FAMS @F24@
+0 @P138@ INDI 
+1 RESI 
+2 DATE 1 Apr 1940
+2 PLAC New York, Bronx, New York, United States
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: New York, Bronx, New York; Roll: ; Page: ; Enumeration District: .
+3 NOTE https://search.ancestry.com/cgi-bin/sse.dll?db=1940usfedcen&h=2610672&ti=0&indiv=try&gss=pt
+3 _APID 1,2442::2610672
+2 SOUR @S291470073@
+3 PAGE Cited in the family tree "Koffler-Kessler Family Tree" created by "springvalleygirl"
+3 NOTE https://www.ancestry.com/family-tree/tree/4909251/person/-1524606948
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=138
+1 BIRT 
+2 DATE 13 Nov 1926 
+2 PLAC New York
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999417
+2 SOUR @S291470506@
+3 _APID 1,1788::170710068
+1 DEAT 
+2 DATE 13 Jul 2014
+2 PLAC Nyack, Rockland, New York, USA
+1 NAME Avraham "Abe" /Sternbach/
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999417
+2 SOUR @S291470506@
+3 _APID 1,1788::170710068
+2 SOUR @S291470533@
+3 PAGE New York City Municipal Archives; New York, New York; Borough: Manhattan
+3 _APID 1,61406::3739547
+2 SOUR @S291470498@
+3 PAGE City: Pomona; State: New York; Year(s): 2001-2002
+3 _APID 1,7339::120103083
+1 RESI 
+2 DATE 2001-2002
+2 PLAC Pomona, New York, USA
+2 SOUR @S291470498@
+3 PAGE City: Pomona; State: New York; Year(s): 2001-2002
+3 _APID 1,7339::120103083
+1 RESI 
+2 DATE 1993
+2 PLAC Pomona, NY
+2 SOUR @S291470506@
+3 _APID 1,1788::170710068
+1 RESI Marital Status: SingleRelation to Head: Son
+2 DATE 1930
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999417
+1 SEX M
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=138
+1 NOTE {geni:about_me} Was supposedly in the Navy.
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=0e849374-5972-47f1-a78e-2f839f3a91ba&tid=165562359&pid=138
+2 FORM jpg
+2 TITL iPhone Photo
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=37f706bc-99d6-4e42-8a65-e48112eb9898&tid=165562359&pid=138
+2 FORM jpg
+2 TITL iPhone Photo
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=41d46a5d-56d4-4720-b5bf-c9327e2e612c&tid=165562359&pid=138
+2 FORM jpg
+2 TITL iPhone Photo
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=f4172023-f1ee-431c-b8b8-5977cca8023c&tid=165562359&pid=138
+2 FORM jpg
+2 TITL iPhone Photo
+1 FAMC @F24@
+1 FAMS @F39@
+0 @P139@ INDI 
+1 BIRT 
+2 DATE abt 1862
+2 PLAC Poland
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 10, New York, New York; Roll: T624_1009; Page: 9B; Enumeration District: 0198; FHL microfilm: 1375022
+3 _APID 1,7884::18595707
+2 SOUR @S291545811@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1905; Election District: A.D. 08 E.D. 05; City: Manhattan; County: New York; Page: 65
+3 _APID 1,7364::982079
+2 SOUR @S291545868@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Page: 20; Enumeration District: 0286; FHL microfilm: 1241094
+3 _APID 1,7602::38107023
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1888
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 10, New York, New York; Roll: T624_1009; Page: 9B; Enumeration District: 0198; FHL microfilm: 1375022
+3 _APID 1,7884::18595707
+2 SOUR @S291545868@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Page: 20; Enumeration District: 0286; FHL microfilm: 1241094
+3 _APID 1,7602::38107023
+1 RESI Marital Status: MarriedRelation to Head: Head
+2 DATE 1900
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291545868@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Page: 20; Enumeration District: 0286; FHL microfilm: 1241094
+3 _APID 1,7602::38107023
+1 NAME Jake /Greenbaum/
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 10, New York, New York; Roll: T624_1009; Page: 9B; Enumeration District: 0198; FHL microfilm: 1375022
+3 _APID 1,7884::18595707
+2 SOUR @S291545811@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1905; Election District: A.D. 08 E.D. 05; City: Manhattan; County: New York; Page: 65
+3 _APID 1,7364::982079
+2 SOUR @S291545868@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Page: 20; Enumeration District: 0286; FHL microfilm: 1241094
+3 _APID 1,7602::38107023
+1 RESI Relationship to Head: Head
+2 DATE 1905
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291545811@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1905; Election District: A.D. 08 E.D. 05; City: Manhattan; County: New York; Page: 65
+3 _APID 1,7364::982079
+1 RESI Marital Status: MarriedRelation to Head of House: Head
+2 DATE 1910
+2 PLAC Manhattan Ward 10, New York, New York, USA
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 10, New York, New York; Roll: T624_1009; Page: 9B; Enumeration District: 0198; FHL microfilm: 1375022
+3 _APID 1,7884::18595707
+1 SEX M
+1 DEAT 
+1 FAMS @F40@
+0 @P140@ INDI 
+1 NAME Florence /Greenbaum/
+1 SEX F
+1 BIRT 
+1 FAMC @F40@
+0 @P141@ INDI 
+1 NAME Jack /Greenbaum/
+1 SEX M
+1 BIRT 
+1 FAMC @F40@
+0 @P142@ INDI 
+1 BIRT 
+2 DATE Jan 1883
+2 PLAC Russia
+2 SOUR @S291545868@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Page: 20; Enumeration District: 0286; FHL microfilm: 1241094
+3 _APID 1,7602::38107025
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1890
+2 SOUR @S291545868@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Page: 20; Enumeration District: 0286; FHL microfilm: 1241094
+3 _APID 1,7602::38107025
+1 RESI Marital Status: SingleRelation to Head: Daughter
+2 DATE 1900
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291545868@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Page: 20; Enumeration District: 0286; FHL microfilm: 1241094
+3 _APID 1,7602::38107025
+1 NAME Hanah /Greenbaum/
+2 SOUR @S291545868@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Page: 20; Enumeration District: 0286; FHL microfilm: 1241094
+3 _APID 1,7602::38107025
+1 SEX F
+1 FAMC @F40@
+0 @P143@ INDI 
+1 BIRT 
+2 DATE abt 1887
+2 PLAC Russia
+2 SOUR @S291545811@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1905; Election District: A.D. 08 E.D. 05; City: Manhattan; County: New York; Page: 65
+3 _APID 1,7364::982129
+2 SOUR @S291545868@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Page: 20; Enumeration District: 0286; FHL microfilm: 1241094
+3 _APID 1,7602::38107026
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1890
+2 SOUR @S291545868@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Page: 20; Enumeration District: 0286; FHL microfilm: 1241094
+3 _APID 1,7602::38107026
+1 RESI Relation to Head: Son
+2 DATE 1900
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291545868@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Page: 20; Enumeration District: 0286; FHL microfilm: 1241094
+3 _APID 1,7602::38107026
+1 NAME Joe /Greenbaum/
+2 SOUR @S291545811@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1905; Election District: A.D. 08 E.D. 05; City: Manhattan; County: New York; Page: 65
+3 _APID 1,7364::982129
+2 SOUR @S291545868@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Page: 20; Enumeration District: 0286; FHL microfilm: 1241094
+3 _APID 1,7602::38107026
+1 RESI Relationship to Head: Son
+2 DATE 1905
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291545811@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1905; Election District: A.D. 08 E.D. 05; City: Manhattan; County: New York; Page: 65
+3 _APID 1,7364::982129
+1 SEX M
+1 FAMC @F40@
+0 @P144@ INDI 
+1 BIRT 
+2 DATE Dec 1893
+2 PLAC New York
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 10, New York, New York; Roll: T624_1009; Page: 9B; Enumeration District: 0198; FHL microfilm: 1375022
+3 _APID 1,7884::110841201
+2 SOUR @S291545811@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1905; Election District: A.D. 08 E.D. 05; City: Manhattan; County: New York; Page: 65
+3 _APID 1,7364::5074507
+2 SOUR @S291545868@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Page: 20; Enumeration District: 0286; FHL microfilm: 1241094
+3 _APID 1,7602::38107028
+1 RESI Relation to Head: Son
+2 DATE 1900
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291545868@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Page: 20; Enumeration District: 0286; FHL microfilm: 1241094
+3 _APID 1,7602::38107028
+1 NAME Samuel /Greenbaum/
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 10, New York, New York; Roll: T624_1009; Page: 9B; Enumeration District: 0198; FHL microfilm: 1375022
+3 _APID 1,7884::110841201
+2 SOUR @S291545811@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1905; Election District: A.D. 08 E.D. 05; City: Manhattan; County: New York; Page: 65
+3 _APID 1,7364::5074507
+2 SOUR @S291545868@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Page: 20; Enumeration District: 0286; FHL microfilm: 1241094
+3 _APID 1,7602::38107028
+1 RESI Relationship to Head: Son
+2 DATE 1905
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291545811@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1905; Election District: A.D. 08 E.D. 05; City: Manhattan; County: New York; Page: 65
+3 _APID 1,7364::5074507
+1 RESI Marital Status: SingleRelation to Head of House: Son
+2 DATE 1910
+2 PLAC Manhattan Ward 10, New York, New York, USA
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 10, New York, New York; Roll: T624_1009; Page: 9B; Enumeration District: 0198; FHL microfilm: 1375022
+3 _APID 1,7884::110841201
+1 SEX M
+1 FAMC @F40@
+0 @P145@ INDI 
+1 BIRT 
+2 DATE abt 1888
+2 PLAC Poland
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 10, New York, New York; Roll: T624_1009; Page: 9B; Enumeration District: 0198; FHL microfilm: 1375022
+3 _APID 1,7884::110841200
+2 SOUR @S291545811@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1905; Election District: A.D. 08 E.D. 05; City: Manhattan; County: New York; Page: 65
+3 _APID 1,7364::982130
+2 SOUR @S291545868@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Page: 20; Enumeration District: 0286; FHL microfilm: 1241094
+3 _APID 1,7602::38107027
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1890
+2 SOUR @S291545868@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Page: 20; Enumeration District: 0286; FHL microfilm: 1241094
+3 _APID 1,7602::38107027
+1 RESI Relation to Head: Son
+2 DATE 1900
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291545868@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Page: 20; Enumeration District: 0286; FHL microfilm: 1241094
+3 _APID 1,7602::38107027
+1 NAME Harry /Greenbaum/
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 10, New York, New York; Roll: T624_1009; Page: 9B; Enumeration District: 0198; FHL microfilm: 1375022
+3 _APID 1,7884::110841200
+2 SOUR @S291545811@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1905; Election District: A.D. 08 E.D. 05; City: Manhattan; County: New York; Page: 65
+3 _APID 1,7364::982130
+2 SOUR @S291545868@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Page: 20; Enumeration District: 0286; FHL microfilm: 1241094
+3 _APID 1,7602::38107027
+1 RESI Relationship to Head: Son
+2 DATE 1905
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291545811@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1905; Election District: A.D. 08 E.D. 05; City: Manhattan; County: New York; Page: 65
+3 _APID 1,7364::982130
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1891
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 10, New York, New York; Roll: T624_1009; Page: 9B; Enumeration District: 0198; FHL microfilm: 1375022
+3 _APID 1,7884::110841200
+1 RESI Marital Status: SingleRelation to Head of House: Son
+2 DATE 1910
+2 PLAC Manhattan Ward 10, New York, New York, USA
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 10, New York, New York; Roll: T624_1009; Page: 9B; Enumeration District: 0198; FHL microfilm: 1375022
+3 _APID 1,7884::110841200
+1 SEX M
+1 FAMC @F40@
+0 @P146@ INDI 
+1 BIRT 
+2 DATE abt 1884
+2 PLAC Russia
+2 SOUR @S291545811@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1905; Election District: A.D. 08 E.D. 05; City: Manhattan; County: New York; Page: 65
+3 _APID 1,7364::982128
+1 RESI Relationship to Head: Daughter
+2 DATE 1905
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291545811@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1905; Election District: A.D. 08 E.D. 05; City: Manhattan; County: New York; Page: 65
+3 _APID 1,7364::982128
+1 NAME Ida /Greenbaum/
+2 SOUR @S291545811@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1905; Election District: A.D. 08 E.D. 05; City: Manhattan; County: New York; Page: 65
+3 _APID 1,7364::982128
+1 SEX F
+1 FAMC @F40@
+0 @P147@ INDI 
+1 BIRT 
+2 DATE abt 1902
+2 PLAC New York
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 10, New York, New York; Roll: T624_1009; Page: 9B; Enumeration District: 0198; FHL microfilm: 1375022
+3 _APID 1,7884::110841202
+2 SOUR @S291545811@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1905; Election District: A.D. 08 E.D. 05; City: Manhattan; County: New York; Page: 65
+3 _APID 1,7364::5074508
+1 RESI Relationship to Head: Son
+2 DATE 1905
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291545811@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1905; Election District: A.D. 08 E.D. 05; City: Manhattan; County: New York; Page: 65
+3 _APID 1,7364::5074508
+1 NAME Issie Isidor /Greenbaum/
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 10, New York, New York; Roll: T624_1009; Page: 9B; Enumeration District: 0198; FHL microfilm: 1375022
+3 _APID 1,7884::110841202
+2 SOUR @S291545811@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1905; Election District: A.D. 08 E.D. 05; City: Manhattan; County: New York; Page: 65
+3 _APID 1,7364::5074508
+1 RESI Marital Status: SingleRelation to Head of House: Son
+2 DATE 1910
+2 PLAC Manhattan Ward 10, New York, New York, USA
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 10, New York, New York; Roll: T624_1009; Page: 9B; Enumeration District: 0198; FHL microfilm: 1375022
+3 _APID 1,7884::110841202
+1 SEX M
+1 FAMC @F40@
+0 @P148@ INDI 
+1 NAME Judah /Keller/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMS @F41@
+0 @P149@ INDI 
+1 NAME "Heshy" /Keller/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMC @F41@
+0 @P150@ INDI 
+1 BIRT 
+2 DATE 17 Sept 1891
+2 PLAC Turka, L'viv, Ukraine
+1 NAME Yehude /Keller/
+1 SEX M
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=150
+1 FAMS @F93@
+0 @P151@ INDI 
+1 BIRT 
+2 DATE abt 1919
+2 PLAC New York
+1 NAME Samuel /Keller/
+1 SEX M
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=151
+1 FAMC @F93@
+0 @P152@ INDI 
+1 BIRT 
+2 DATE 14 Feb 1914
+2 PLAC New York
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 1B; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999072
+1 NAME Florence /Keller/
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 1B; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999072
+1 RESI Marital Status: SingleRelation to Head: Daughter
+2 DATE 1930
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 1B; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999072
+1 SEX F
+1 DEAT 
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=152
+1 FAMC @F41@
+1 FAMC @F93@
+1 FAMC @F92@
+1 FAMS @F94@
+0 @P153@ INDI 
+1 BIRT 
+2 DATE 19 Sep 1915
+2 PLAC New York
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 1B; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999051
+1 DEAT 
+2 DATE 25 May 2009
+2 PLAC Whippany, Morris, New Jersey
+1 NAME Lila Leah /Keller/
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 1B; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999051
+1 RESI Marital Status: SingleRelation to Head: Daughter
+2 DATE 1930
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 1B; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999051
+1 SEX F
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=153
+1 FAMC @F41@
+1 FAMC @F92@
+1 FAMS @F69@
+0 @P154@ INDI 
+1 BIRT 
+2 DATE 29 Aug 1912
+2 PLAC New York
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 1B; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999056
+1 DEAT 
+2 DATE 07/29/83
+2 PLAC Bronx, Bronx, New York, USA
+1 NAME Abraham Arthur /Keller/
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 1B; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999056
+1 RESI Marital Status: SingleRelation to Head: Son
+2 DATE 1930
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 1B; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999056
+1 SEX M
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=154
+1 FAMC @F41@
+1 FAMC @F92@
+0 @P155@ INDI 
+1 BIRT 
+2 DATE abt 1890
+2 PLAC Poland
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 1B; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999037
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1910
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 1B; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999037
+1 RESI Marital Status: MarriedRelation to Head: Head
+2 DATE 1930
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 1B; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999037
+1 NAME Joseph /Keller/
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 1B; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999037
+1 SEX M
+1 FAMS @F92@
+0 @P156@ INDI 
+1 BIRT 
+2 DATE abt 1924
+2 PLAC New York
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 1B; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999031
+1 RESI Marital Status: SingleRelation to Head: Son
+2 DATE 1930
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 1B; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999031
+1 NAME Harry /Keller/
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 1B; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999031
+1 SEX M
+1 FAMC @F92@
+0 @P157@ INDI 
+1 BIRT 
+2 DATE abt 1919
+2 PLAC New York
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 1B; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999053
+1 RESI Marital Status: SingleRelation to Head: Son
+2 DATE 1930
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 1B; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999053
+1 NAME Shmuel /Keller/
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 1B; Enumeration District: 0169; FHL microfilm: 2341287
+3 _APID 1,6224::41999053
+1 SEX M
+1 DEAT 
+1 FAMC @F41@
+1 FAMC @F92@
+0 @P158@ INDI 
+1 NAME Wife? /Sternbach/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMS @F25@
+0 @P159@ INDI 
+1 BIRT 
+2 DATE abt 1894
+2 PLAC Austria
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m-t0627-02559; Page: 1B; Enumeration District: 24-499C
+3 _APID 1,2442::2699764
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 6A; Enumeration District: 1438; FHL microfilm: 2341260
+3 _APID 1,6224::39187320
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1916
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 6A; Enumeration District: 1438; FHL microfilm: 2341260
+3 _APID 1,6224::39187320
+1 RESI Marital Status: MarriedRelation to Head: Wife
+2 DATE 1930
+2 PLAC Brooklyn, Kings, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 6A; Enumeration District: 1438; FHL microfilm: 2341260
+3 _APID 1,6224::39187320
+1 NAME Pauline /Sternbach Mattes/
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m-t0627-02559; Page: 1B; Enumeration District: 24-499C
+3 _APID 1,2442::2699764
+2 SOUR @S291471713@
+3 _APID 1,60901::789049449
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 6A; Enumeration District: 1438; FHL microfilm: 2341260
+3 _APID 1,6224::39187320
+1 RESI 
+2 DATE 1935
+2 PLAC New York, Kings, New York
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m-t0627-02559; Page: 1B; Enumeration District: 24-499C
+3 _APID 1,2442::2699764
+1 RESI Marital Status: MarriedRelation to Head: Wife
+2 DATE 1940
+2 PLAC New York, Kings, New York, USA
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m-t0627-02559; Page: 1B; Enumeration District: 24-499C
+3 _APID 1,2442::2699764
+1 SEX F
+1 DEAT 
+1 FAMS @F26@
+0 @P160@ INDI 
+1 BIRT 
+2 DATE abt 1913
+2 PLAC Poland
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 6A; Enumeration District: 1438; FHL microfilm: 2341260
+3 _APID 1,6224::39187331
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1924
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 6A; Enumeration District: 1438; FHL microfilm: 2341260
+3 _APID 1,6224::39187331
+1 RESI Marital Status: SingleRelation to Head: Daughter
+2 DATE 1930
+2 PLAC Brooklyn, Kings, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 6A; Enumeration District: 1438; FHL microfilm: 2341260
+3 _APID 1,6224::39187331
+1 NAME Florence /Sternbach/
+2 SOUR @S291471713@
+3 _APID 1,60901::769668619
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 6A; Enumeration District: 1438; FHL microfilm: 2341260
+3 _APID 1,6224::39187331
+1 SEX F
+1 DEAT 
+1 FAMC @F26@
+1 FAMS @F70@
+1 FAMS @F111@
+0 @P161@ INDI 
+1 BIRT 
+2 DATE abt 1927
+2 PLAC New York
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m-t0627-02559; Page: 2A; Enumeration District: 24-499C
+3 _APID 1,2442::2699766
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 6A; Enumeration District: 1438; FHL microfilm: 2341260
+3 _APID 1,6224::39187323
+1 RESI Marital Status: SingleRelation to Head: Daughter
+2 DATE 1930
+2 PLAC Brooklyn, Kings, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 6A; Enumeration District: 1438; FHL microfilm: 2341260
+3 _APID 1,6224::39187323
+1 NAME Dorothy /Sternbach/
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m-t0627-02559; Page: 2A; Enumeration District: 24-499C
+3 _APID 1,2442::2699766
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 6A; Enumeration District: 1438; FHL microfilm: 2341260
+3 _APID 1,6224::39187323
+1 RESI 
+2 DATE 1935
+2 PLAC New York, Kings, New York
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m-t0627-02559; Page: 2A; Enumeration District: 24-499C
+3 _APID 1,2442::2699766
+1 RESI Marital Status: SingleRelation to Head: Daughter
+2 DATE 1940
+2 PLAC New York, Kings, New York, USA
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m-t0627-02559; Page: 2A; Enumeration District: 24-499C
+3 _APID 1,2442::2699766
+1 SEX F
+1 FAMC @F26@
+0 @P162@ INDI 
+1 BIRT 
+2 DATE abt 1930
+2 PLAC New York
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m-t0627-02559; Page: 2A; Enumeration District: 24-499C
+3 _APID 1,2442::2699767
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 6A; Enumeration District: 1438; FHL microfilm: 2341260
+3 _APID 1,6224::39187316
+1 RESI Marital Status: SingleRelation to Head: Son
+2 DATE 1930
+2 PLAC Brooklyn, Kings, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 6A; Enumeration District: 1438; FHL microfilm: 2341260
+3 _APID 1,6224::39187316
+1 NAME Hyman "Hymie" /Sternbach/
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m-t0627-02559; Page: 2A; Enumeration District: 24-499C
+3 _APID 1,2442::2699767
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 6A; Enumeration District: 1438; FHL microfilm: 2341260
+3 _APID 1,6224::39187316
+1 RESI 
+2 DATE 1935
+2 PLAC New York, Kings, New York
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m-t0627-02559; Page: 2A; Enumeration District: 24-499C
+3 _APID 1,2442::2699767
+1 RESI Marital Status: SingleRelation to Head: Son
+2 DATE 1940
+2 PLAC New York, Kings, New York, USA
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m-t0627-02559; Page: 2A; Enumeration District: 24-499C
+3 _APID 1,2442::2699767
+1 SEX M
+1 DEAT 
+1 FAMC @F26@
+0 @P163@ INDI 
+1 BIRT 
+2 DATE 2 Oct 1925
+2 PLAC Brooklyn Kin, New York
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m-t0627-02559; Page: 2A; Enumeration District: 24-499C
+3 _APID 1,2442::2699765
+2 SOUR @S291471713@
+3 _APID 1,60901::39049449
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 6A; Enumeration District: 1438; FHL microfilm: 2341260
+3 _APID 1,6224::39187345
+1 RESI Marital Status: SingleRelation to Head: Son
+2 DATE 1930
+2 PLAC Brooklyn, Kings, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 6A; Enumeration District: 1438; FHL microfilm: 2341260
+3 _APID 1,6224::39187345
+1 NAME Alexander Alex Murray /Sternbach/
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m-t0627-02559; Page: 2A; Enumeration District: 24-499C
+3 _APID 1,2442::2699765
+2 SOUR @S291471713@
+3 _APID 1,60901::39049449
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 6A; Enumeration District: 1438; FHL microfilm: 2341260
+3 _APID 1,6224::39187345
+1 DEAT 
+2 DATE Aug 1981
+2 SOUR @S291471713@
+3 _APID 1,60901::39049449
+1 RESI 
+2 DATE 1935
+2 PLAC New York, Kings, New York
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m-t0627-02559; Page: 2A; Enumeration District: 24-499C
+3 _APID 1,2442::2699765
+1 RESI Marital Status: SingleRelation to Head: Son
+2 DATE 1940
+2 PLAC New York, Kings, New York, USA
+2 SOUR @S291467805@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m-t0627-02559; Page: 2A; Enumeration District: 24-499C
+3 _APID 1,2442::2699765
+1 SEX M
+1 FAMC @F26@
+0 @P164@ INDI 
+1 NAME Victor /Hoffman/
+1 SEX M
+1 BIRT 
+1 EVEN 
+2 TYPE Misc Event
+2 DATE 20 JAN 1930
+1 ADDR mshinda@@mscc.huji.ac.il
+1 FAMS @F42@
+0 @P165@ INDI 
+1 NAME Talia /Hoffman/
+1 SEX F
+1 BIRT 
+1 FAMC @F42@
+1 FAMS @F71@
+0 @P166@ INDI 
+1 NAME Nani /Gal/
+1 SEX F
+1 BIRT 
+1 FAMC @F42@
+1 FAMS @F72@
+0 @P167@ INDI 
+1 NAME Elisheva /Hoffman/
+1 SEX F
+1 BIRT 
+1 FAMC @F42@
+0 @P168@ INDI 
+1 NAME Yonina /hoffman/
+1 SEX F
+1 BIRT 
+1 FAMC @F42@
+0 @P169@ INDI 
+1 NAME Steven Paul /Berger/
+1 SEX M
+1 BIRT 
+1 ADDR Paulberger180@@gmail.com
+1 FAMS @F43@
+0 @P170@ INDI 
+1 NAME Benjamin Andrew /Berger/
+1 SEX M
+1 BIRT 
+2 DATE 13 APR 1982
+1 RESI 
+1 ADDR Bberger15@@gmail.com
+1 NOTE {geni:hair_color} Brown
+2 CONT {geni:eye_color} Hazel
+1 FAMC @F43@
+1 FAMS @F44@
+0 @P171@ INDI 
+1 NAME Gideon /Berger/
+1 SEX M
+1 BIRT 
+1 FAMC @F43@
+1 FAMS @F45@
+0 @P172@ INDI 
+1 NAME Alisa /Berger/
+1 SEX F
+1 BIRT 
+1 ADDR Alisaberger@@gmail.com
+1 FAMC @F43@
+1 FAMS @F73@
+0 @P173@ INDI 
+1 NAME Dave /Davies/
+1 SEX M
+1 BIRT 
+1 FAMS @F46@
+0 @P174@ INDI 
+1 NAME Andrew /Davies/
+1 SEX M
+1 BIRT 
+1 FAMC @F46@
+0 @P175@ INDI 
+1 NAME Sarah /Davies/
+1 SEX F
+1 BIRT 
+1 FAMC @F46@
+0 @P176@ INDI 
+1 NAME Michael Glen /Segal/
+1 SEX M
+1 BIRT 
+1 FAMS @F47@
+0 @P177@ INDI 
+1 NAME Son2 /Segal/
+1 SEX M
+1 BIRT 
+1 FAMC @F47@
+0 @P178@ INDI 
+1 NAME Ted Mark /Segal/
+1 SEX M
+1 BIRT 
+1 ADDR tedward61194@@yahoo.com
+1 FAMC @F47@
+0 @P179@ INDI 
+1 NAME Adam /Segal/
+1 SEX M
+1 BIRT 
+1 FAMC @F47@
+0 @P180@ INDI 
+1 NAME Karan /Futtersak/
+1 SEX F
+1 BIRT 
+1 FAMS @F28@
+0 @P181@ INDI 
+1 NAME Josh /Futtersak/
+1 SEX M
+1 BIRT 
+1 FAMC @F28@
+0 @P182@ INDI 
+1 NAME Alex /Futtersak/
+1 SEX M
+1 BIRT 
+1 FAMC @F28@
+0 @P183@ INDI 
+1 NAME Boy1 /Futtersak/
+1 SEX M
+1 BIRT 
+1 FAMC @F28@
+0 @P184@ INDI 
+1 NAME Rachel /futtersak/
+1 SEX F
+1 BIRT 
+1 FAMC @F28@
+0 @P185@ INDI 
+1 NAME Reb Efraim /gurewitz/
+1 SEX M
+1 BIRT 
+1 FAMC @F29@
+0 @P186@ INDI 
+1 NAME Sarah /lipkin/
+1 SEX F
+1 BIRT 
+1 FAMC @F30@
+1 FAMS @F48@
+0 @P187@ INDI 
+1 NAME Tzipora /weiss/
+1 SEX F
+1 BIRT 
+1 FAMC @F30@
+0 @P188@ INDI 
+1 NAME Chaya /asia/
+1 SEX F
+1 BIRT 
+1 FAMC @F30@
+0 @P189@ INDI 
+1 NAME Pashka
+1 SEX F
+1 BIRT 
+1 FAMC @F30@
+0 @P190@ INDI 
+1 NAME zvi /asia/
+1 SEX M
+1 BIRT 
+1 FAMC @F30@
+0 @P191@ INDI 
+1 NAME yisroel /asia/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMS @F101@
+0 @P192@ INDI 
+1 NAME Yitchak /Lipkin/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMS @F48@
+0 @P193@ INDI 
+1 NAME Shifra /schwarz/
+1 SEX F
+1 BIRT 
+1 FAMC @F31@
+0 @P194@ INDI 
+1 NAME Sarah /schwarz/
+1 SEX F
+1 BIRT 
+1 FAMC @F31@
+0 @P195@ INDI 
+1 NAME Borris /Averbuch/
+1 SEX M
+1 BIRT 
+0 @P196@ INDI 
+1 NAME Abrasha /Averbuch/
+1 SEX M
+1 BIRT 
+0 @P197@ INDI 
+1 NAME Louiska /Averbuch/
+1 SEX F
+1 BIRT 
+0 @P198@ INDI 
+1 NAME Fayga /Frei/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMC @F32@
+1 FAMS @F49@
+0 @P199@ INDI 
+1 NAME Frieda (Freda) /Sternback/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMC @F32@
+1 FAMS @F51@
+0 @P200@ INDI 
+1 NAME Husband /Karp/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMS @F49@
+0 @P201@ INDI 
+1 NAME Moyshe Maya /Karp/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMC @F49@
+1 FAMS @F50@
+0 @P202@ INDI 
+1 NAME Freida /Karp/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMC @F49@
+1 FAMS @F75@
+0 @P203@ INDI 
+1 NAME Abraham /Sternback/
+1 SEX M
+1 DEAT 
+1 BIRT 
+2 DATE 1878
+1 FAMS @F51@
+0 @P204@ INDI 
+1 NAME Leo /Sternback/
+1 SEX M
+1 DEAT 
+1 BIRT 
+2 DATE ABT 1904
+1 FAMC @F51@
+1 FAMS @F52@
+0 @P205@ INDI 
+1 NAME Irving /Sternback/
+1 SEX M
+1 DEAT 
+1 BIRT 
+2 DATE ABT 1904
+1 FAMC @F51@
+1 FAMS @F53@
+0 @P206@ INDI 
+1 NAME Murray /Sternback/
+1 SEX M
+1 DEAT 
+1 BIRT 
+2 DATE ABT 1906
+1 FAMC @F51@
+1 FAMS @F54@
+0 @P207@ INDI 
+1 NAME Ida /Sternback/
+1 SEX F
+1 DEAT 
+1 BIRT 
+2 DATE AFT 1910
+1 FAMC @F51@
+0 @P208@ INDI 
+1 NAME Helan (Helen) /Sternbach/
+1 SEX F
+1 DEAT 
+1 BIRT 
+2 DATE ABT 1911
+1 FAMC @F51@
+0 @P209@ INDI 
+1 NAME Ann /Sternback/
+1 SEX F
+1 DEAT 
+1 BIRT 
+2 DATE ABT 1919
+1 FAMC @F51@
+1 FAMS @F76@
+0 @P210@ INDI 
+1 NAME Helen /Sternback/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMC @F51@
+1 FAMS @F77@
+0 @P211@ INDI 
+1 NAME Toby /Sternback/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMC @F51@
+1 FAMS @F78@
+0 @P212@ INDI 
+1 NAME nissan mendel /markel/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMS @F55@
+0 @P213@ INDI 
+1 NAME Wife /Markel/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMS @F55@
+0 @P214@ INDI 
+1 NAME Mattis /Markel/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMC @F33@
+0 @P215@ INDI 
+1 NAME Moishe Myer /markel/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMC @F33@
+0 @P216@ INDI 
+1 NAME hannah /markel/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMC @F33@
+0 @P217@ INDI 
+1 NAME Pessel /markel/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMC @F33@
+0 @P218@ INDI 
+1 NAME Sarah /markel-tachner/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMC @F33@
+0 @P219@ INDI 
+1 NAME Masha markel- /tachner/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMC @F33@
+0 @P220@ INDI 
+1 NAME Leonard /Salmanson/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMS @F56@
+0 @P221@ INDI 
+1 NAME Leonard /Rodbell/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMS @F57@
+0 @P222@ INDI 
+1 NAME Allen /Salmanson/
+1 SEX M
+1 BIRT 
+1 FAMC @F56@
+1 FAMS @F113@
+0 @P223@ INDI 
+1 NAME Barbara /Salmanson/
+1 SEX F
+1 BIRT 
+1 FAMC @F56@
+0 @P224@ INDI 
+1 NAME Carol /Leto/
+1 SEX F
+1 BIRT 
+1 FAMC @F56@
+1 FAMS @F79@
+0 @P225@ INDI 
+1 NAME Sol /Schlusselberg/
+1 SEX M
+1 BIRT 
+1 FAMS @F58@
+0 @P226@ INDI 
+1 NAME Irving /Kaplan/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMS @F59@
+0 @P227@ INDI 
+1 NAME Lisa /Lubka/
+1 SEX F
+1 BIRT 
+1 FAMC @F59@
+1 FAMS @F80@
+0 @P228@ INDI 
+1 NAME Andrew /Kaplan/
+1 SEX M
+1 BIRT 
+1 FAMC @F59@
+1 FAMS @F60@
+0 @P229@ INDI 
+1 NAME Richard /Kaplan/
+1 SEX M
+1 BIRT 
+1 FAMC @F59@
+0 @P230@ INDI 
+1 NAME Jeffrey /Kaplan/
+1 SEX M
+1 BIRT 
+1 FAMC @F59@
+0 @P231@ INDI 
+1 NAME Peter /Kaplan/
+1 SEX M
+1 BIRT 
+1 FAMC @F59@
+0 @P232@ INDI 
+1 NAME Gregory /Markel/
+1 SEX M
+1 BIRT 
+1 FAMC @F107@
+0 @P233@ INDI 
+1 NAME Billy ( Maurice) /Greenbaum/
+1 SEX M
+1 BIRT 
+1 FAMC @F107@
+0 @P234@ INDI 
+1 NAME Kay /Goodman/
+1 SEX F
+1 BIRT 
+1 FAMS @F36@
+0 @P235@ INDI 
+1 NAME Marna /Israeli/
+1 SEX F
+1 BIRT 
+1 FAMC @F36@
+1 FAMS @F81@
+0 @P236@ INDI 
+1 NAME Jason /Goodman/
+1 SEX M
+1 BIRT 
+1 FAMC @F36@
+1 FAMS @F61@
+0 @P237@ INDI 
+1 NAME Beth /Goodman/
+1 SEX F
+1 BIRT 
+1 FAMC @F36@
+1 FAMS @F82@
+0 @P238@ INDI 
+1 NAME Lory Leah /(Calderon)/
+1 SEX F
+1 BIRT 
+2 DATE ABT 20 JAN 1953
+1 EVEN 
+2 TYPE Misc Event
+2 DATE 13 MAR 1970
+2 PLAC Miami
+1 ADDR lorymermel@@aol.com
+1 EVEN 
+2 TYPE Misc Event
+2 DATE 2 SEP 2007
+2 PLAC Miami, Fla.
+1 EVEN 
+2 TYPE Misc Event
+2 DATE 2 OCT 2008
+2 PLAC Orlando, Fla.
+1 ADDR (305) 321 0991
+1 ADDR (305) 2545989
+1 FAMS @F38@
+0 @P239@ INDI 
+1 NAME Daniel /Mermel/
+1 SEX M
+1 GRAD 
+2 PLAC Miami Killian Senior High School
+1 EVEN 
+2 TYPE Misc Event
+2 DATE 20 JAN 1930
+1 BIRT 
+2 DATE 2 JUL 1968
+1 RESI 
+1 ADDR dmermel@@gmail.com
+1 GRAD 
+2 PLAC Palmer Prep
+1 GRAD 
+2 PLAC South Dade Hebrew Academy
+1 GRAD 
+2 PLAC Boston University
+1 FAMC @F108@
+0 @P240@ INDI 
+1 NAME Robbi /Mermel/
+1 SEX F
+1 EVEN 
+2 TYPE Misc Event
+1 BIRT 
+2 DATE 13 MAR 1970
+1 ADDR rmermel@@aol.com
+1 EVEN 
+2 TYPE Misc Event
+2 DATE 20 JAN 1930
+1 FAMC @F108@
+1 FAMS @F83@
+0 @P241@ INDI 
+1 NAME Edward F /Cross Calderon/
+1 SEX M
+1 BIRT 
+2 DATE 11 MAY 1972
+1 FAMC @F38@
+0 @P242@ INDI 
+1 NAME Sarah Rebecca /Calderon/
+1 SEX F
+1 EVEN 
+2 TYPE Misc Event
+2 DATE 20 JAN 1930
+1 BIRT 
+2 DATE ABT 16 NOV 1983
+1 RESI 
+1 ADDR smermelade@@aol.com
+1 FAMC @F38@
+0 @P243@ INDI 
+1 NAME Shayna Hannah /Mermel Calderon/
+1 SEX F
+1 BIRT 
+2 DATE 1 OCT 1985
+1 RESI 
+1 ADDR adultshane20@@aol.com
+1 ADDR AdutShane20@@aol.com
+1 FAMC @F38@
+0 @P244@ INDI 
+1 NAME Charles /Solomon/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMS @F65@
+0 @P245@ INDI 
+1 NAME Bob /Holsten/
+1 SEX M
+1 EVEN 
+2 TYPE Misc Event
+1 BIRT 
+2 DATE 8 JUN 1940
+1 ADDR rrholsten@@yahoo.com
+1 NOTE {geni:hair_color} Brown
+2 CONT {geni:eye_color} Hazel
+2 CONT {geni:height_1} 5 feet
+2 CONT {geni:height_2} 8 inches
+1 FAMS @F66@
+0 @P246@ INDI 
+1 BIRT 
+2 DATE 31 AUG 1971
+1 RESI 
+1 ADDR jbarlis@@hotmail.com
+1 NAME Jeffrey /Barlis/
+1 SEX M
+1 EVEN 
+2 TYPE Misc Event
+2 DATE 20 JAN 1930
+1 FAMC @F109@
+1 FAMS @F62@
+0 @P247@ INDI 
+1 NAME Alan /Barlis/
+1 SEX M
+1 EVEN 
+2 TYPE Misc Event
+2 DATE 20 JAN 1930
+1 BIRT 
+2 DATE 2 SEP 1967
+1 RESI 
+1 FAMC @F109@
+1 FAMS @F63@
+0 @P248@ INDI 
+1 NAME Ricky /Barlis/
+1 SEX M
+1 EVEN 
+2 TYPE Misc Event
+2 DATE 20 JAN 1930
+1 BIRT 
+2 DATE 24 MAY 1973
+2 PLAC Mease Hospital
+1 RESI 
+1 ADDR rbarlis@@optonline.net
+1 FAMC @F109@
+1 FAMS @F64@
+0 @P249@ INDI 
+1 NAME Golda /Treiber/
+1 SEX F
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=249
+1 FAMC @F100@
+0 @P250@ INDI 
+1 NAME Tuvieh /Treiber/
+1 SEX M
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=250
+1 FAMC @F100@
+0 @P251@ INDI 
+1 BIRT 
+2 DATE abt 1886
+2 PLAC Austria
+1 NAME Chana /Treiber/
+1 SEX F
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=251
+1 FAMC @F100@
+0 @P252@ INDI 
+1 NAME Yisrael /Sternbach/
+1 SEX M
+1 BIRT 
+1 DEAT 
+0 @P253@ INDI 
+1 NAME Chana /Sternbach/
+1 SEX F
+1 BIRT 
+1 DEAT 
+0 @P254@ INDI 
+1 NAME Devorah Leah /Sternbach/
+1 SEX F
+1 BIRT 
+1 DEAT 
+0 @P255@ INDI 
+1 NAME ?Mani? /Sternbach/
+1 SEX U
+1 BIRT 
+1 DEAT 
+0 @P256@ INDI 
+1 NAME Stephen /Sternbach/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMC @F110@
+0 @P257@ INDI 
+1 NAME Robin /Sternbach/
+1 SEX U
+1 BIRT 
+1 DEAT 
+1 FAMC @F110@
+0 @P258@ INDI 
+1 NAME Harvey /Soll/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMS @F67@
+0 @P259@ INDI 
+1 NAME David /Soll/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMC @F67@
+0 @P260@ INDI 
+1 NAME Rebecca /Sternbach Koffler/
+2 SOUR @S291470533@
+3 PAGE New York City Municipal Archives; New York, New York; Borough: Manhattan
+3 _APID 1,61406::903739547
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMS @F39@
+0 @P261@ INDI 
+1 NAME Dov /Sternbach/
+1 SEX M
+1 BIRT 
+1 RESI 
+2 PLAC Crown Heights
+1 FAMC @F39@
+1 FAMS @F68@
+0 @P262@ INDI 
+1 NAME Debby /Sternbach/
+1 SEX F
+1 BIRT 
+1 FAMC @F39@
+0 @P263@ INDI 
+1 NAME Yechiel /Sternbach/
+1 SEX M
+1 BIRT 
+1 FAMC @F39@
+1 FAMS @F114@
+0 @P264@ INDI 
+1 NAME David /Frank/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMS @F69@
+0 @P265@ INDI 
+1 NAME Mitchell /Frank/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMC @F69@
+0 @P266@ INDI 
+1 NAME Mark /Frank/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMC @F69@
+0 @P267@ INDI 
+1 NAME Jack
+1 SEX M
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=267
+1 FAMS @F94@
+0 @P268@ INDI 
+1 NAME Max /White/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMS @F70@
+0 @P269@ INDI 
+1 BIRT 
+2 DATE 17 May 1940
+2 PLAC N Y, New York
+2 SOUR @S291471713@
+3 _APID 1,60901::19668619
+1 DEAT 
+2 DATE 5 Jun 2007
+2 SOUR @S291471713@
+3 _APID 1,60901::19668619
+1 NAME Eleanor Barbara /White/
+2 SOUR @S291471713@
+3 _APID 1,60901::19668619
+1 SEX F
+1 FAMC @F111@
+0 @P270@ INDI 
+1 NAME David /Kalender/
+1 SEX M
+1 BIRT 
+1 FAMS @F71@
+0 @P271@ INDI 
+1 NAME Aryeh /Kalender/
+1 SEX M
+1 BIRT 
+1 FAMC @F71@
+0 @P272@ INDI 
+1 NAME Maon /Gal/
+1 SEX M
+1 BIRT 
+1 ADDR nanimaon@@hotmail.com
+1 FAMS @F72@
+0 @P273@ INDI 
+1 NAME Arava /Gal/
+1 SEX F
+1 BIRT 
+1 FAMC @F72@
+0 @P274@ INDI 
+1 NAME Noa /Gal/
+1 SEX F
+1 BIRT 
+1 FAMC @F72@
+0 @P275@ INDI 
+1 NAME Hallel /Gal/
+1 SEX F
+1 BIRT 
+2 DATE 22 APR 2000
+1 RESI 
+1 FAMC @F72@
+0 @P276@ INDI 
+1 NAME Jessica Rothstein /Berger/
+1 SEX F
+1 BIRT 
+2 DATE 18 FEB 1981
+1 GRAD 
+2 DATE 8 SEP 1986
+2 PLAC Lake Grove Elementary
+1 OCCU Counselor & Photographer
+2 DATE 1997
+2 PLAC B'nai B'rith Camp
+1 RESI 
+1 ADDR Theveggieberger@@gmail.com
+1 GRAD 
+2 DATE 7 SEP 1993
+2 PLAC Lake Oswego Junior High School
+1 GRAD 
+2 DATE 5 SEP 1995
+2 PLAC Lake Oswego High School
+1 GRAD 
+2 DATE 15 SEP 1999
+2 PLAC Savannah College of Art & Design
+1 OCCU Camp & Youth Services Director
+2 DATE 2 JUN 2003
+2 PLAC JEA
+1 OCCU Regional Program Director
+2 DATE 25 JUL 2005
+2 PLAC B'nai B'rith Youth Organization
+1 OCCU Director of Programming
+2 DATE 9 JUL 2007
+2 PLAC Central Synagogue
+1 GRAD 
+2 DATE 7 SEP 2010
+2 PLAC New York University
+1 OCCU Social Worker and Director of Community Programming
+2 DATE 7 JAN 2013
+2 PLAC Stephen Wise Free Synagogue
+1 ADDR +1 (914) 426-7819
+1 NOTE {geni:hair_color} Brown
+2 CONT {geni:eye_color} Brown
+2 CONT {geni:height_1} 5 feet
+2 CONT {geni:height_2} 5 inches
+2 CONT Mom you are a babe!
+1 FAMS @F44@
+0 @P277@ INDI 
+1 NAME Cassandra /Berger/
+1 SEX F
+1 BIRT 
+1 ADDR Cassandra.berger@@gmail.com
+1 FAMS @F45@
+0 @P278@ INDI 
+1 NAME Marcello /Berger/
+1 SEX M
+1 BIRT 
+1 FAMC @F45@
+0 @P279@ INDI 
+1 NAME Penelope /Berger/
+1 SEX F
+1 BIRT 
+1 FAMC @F45@
+0 @P280@ INDI 
+1 NAME Sam /Moyn/
+1 SEX M
+1 BIRT 
+1 FAMS @F73@
+0 @P281@ INDI 
+1 NAME Lily Flor /Berger/
+1 SEX F
+1 BIRT 
+1 FAMC @F73@
+0 @P282@ INDI 
+1 NAME Madeline /Berger/
+1 SEX F
+1 BIRT 
+1 FAMC @F73@
+0 @P283@ INDI 
+1 NAME Shalom David /gurewitz/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMS @F112@
+0 @P284@ INDI 
+1 NAME yisroel /gurewitz/
+1 SEX M
+1 BIRT 
+1 FAMC @F112@
+0 @P285@ INDI 
+1 NAME Hillel /gurewitz/
+1 SEX M
+1 BIRT 
+1 DEAT 
+0 @P286@ INDI 
+1 NAME zalman /gurewitz/
+1 SEX M
+1 BIRT 
+1 DEAT 
+0 @P287@ INDI 
+1 NAME Wife /Karp/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMS @F50@
+0 @P288@ INDI 
+1 NAME Mark /Karp/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMC @F50@
+1 FAMS @F74@
+0 @P289@ INDI 
+1 NAME Zelda /Karp/
+1 SEX F
+1 BIRT 
+1 FAMC @F50@
+1 FAMS @F115@
+0 @P290@ INDI 
+1 NAME Husband /Weidenfeld/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMS @F75@
+0 @P291@ INDI 
+1 NAME Renya /Tzoar/
+1 SEX F
+1 BIRT 
+1 FAMC @F75@
+1 FAMS @F84@
+0 @P292@ INDI 
+1 NAME Rebecca /Sternback/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMS @F52@
+0 @P293@ INDI 
+1 NAME Wife /Sternback/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMS @F53@
+0 @P294@ INDI 
+1 NAME Wife /Sternback/
+1 SEX F
+1 BIRT 
+1 DEAT 
+1 FAMS @F54@
+0 @P295@ INDI 
+1 NAME Husband /Sternback/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMS @F76@
+0 @P296@ INDI 
+1 NAME Irving /Schaeffer/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMS @F77@
+0 @P297@ INDI 
+1 NAME Husband /Sternback/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMS @F78@
+0 @P298@ INDI 
+1 NAME Leonard /Salmanson/
+1 SEX M
+1 BIRT 
+1 FAMC @F113@
+0 @P299@ INDI 
+1 NAME Deborah /Salmanson/
+1 SEX F
+1 BIRT 
+1 FAMC @F113@
+0 @P300@ INDI 
+1 NAME Steven /Leto/
+1 SEX M
+1 BIRT 
+1 FAMS @F79@
+0 @P301@ INDI 
+1 NAME Larry /Lubka/
+1 SEX M
+1 BIRT 
+1 FAMS @F80@
+0 @P302@ INDI 
+1 NAME Sandra /Kaplan/
+1 SEX F
+1 BIRT 
+1 FAMS @F60@
+0 @P303@ INDI 
+1 NAME Tzvi /Israeli/
+1 SEX M
+1 BIRT 
+1 FAMS @F81@
+0 @P304@ INDI 
+1 NAME Son1 /Israeli/
+1 SEX M
+1 BIRT 
+1 FAMC @F81@
+0 @P305@ INDI 
+1 NAME Daugher /Israeli/
+1 SEX F
+1 BIRT 
+1 FAMC @F81@
+0 @P306@ INDI 
+1 NAME Daughter /Israeli/
+1 SEX F
+1 BIRT 
+1 FAMC @F81@
+0 @P307@ INDI 
+1 NAME Wife /Goodman/
+1 SEX F
+1 BIRT 
+1 FAMS @F61@
+0 @P308@ INDI 
+1 NAME Child1 /Goodman/
+1 SEX M
+1 BIRT 
+1 FAMC @F61@
+0 @P309@ INDI 
+1 NAME Daughter /Goodman/
+1 SEX F
+1 BIRT 
+1 FAMC @F61@
+0 @P310@ INDI 
+1 NAME Husband /Goodman/
+1 SEX M
+1 BIRT 
+1 FAMS @F82@
+0 @P311@ INDI 
+1 NAME Daughter1 /Goodman/
+1 SEX F
+1 BIRT 
+1 FAMC @F82@
+0 @P312@ INDI 
+1 NAME Son1 /Goodman/
+1 SEX M
+1 BIRT 
+1 FAMC @F82@
+0 @P313@ INDI 
+1 NAME Bob /Zlatkiss/
+1 SEX M
+1 BIRT 
+2 DATE 2 OCT 1958
+1 ADDR rzlatkiss@@aol.com
+1 FAMS @F83@
+0 @P314@ INDI 
+1 NAME Future Yiddische wife /Barlis/
+1 SEX F
+1 BIRT 
+1 EVEN 
+2 TYPE Misc Event
+2 DATE 20 JAN 1930
+1 FAMS @F62@
+0 @P315@ INDI 
+1 NAME Susan /Naci/
+1 SEX F
+1 BIRT 
+2 DATE 17 OCT 1973
+1 RESI 
+1 ADDR susannaci@@gmail.com
+1 FAMS @F63@
+0 @P316@ INDI 
+1 NAME Rainen Kaan /Barlis/
+1 SEX M
+1 BIRT 
+2 DATE 6 JUN 2008
+1 FAMC @F63@
+0 @P317@ INDI 
+1 NAME Ellen /Drukman/
+1 SEX F
+1 BIRT 
+2 DATE 16 SEP 1974
+1 RESI 
+1 ADDR ebarlis@@optonline.net
+1 FAMS @F64@
+0 @P318@ INDI 
+1 NAME Anna /Barlis/
+1 SEX F
+1 BIRT 
+1 RESI 
+1 FAMC @F64@
+0 @P319@ INDI 
+1 NAME Aaron /Barlis/
+1 SEX M
+1 BIRT 
+1 FAMC @F64@
+0 @P320@ INDI 
+1 NAME Sharona /Sternbach/
+1 SEX F
+1 BIRT 
+1 FAMS @F68@
+0 @P321@ INDI 
+1 NAME Shneur Zalman /Sternbach/
+1 SEX M
+1 BIRT 
+1 FAMC @F68@
+0 @P322@ INDI 
+1 NAME Yisrael /Sternbach/
+1 SEX M
+1 BIRT 
+1 FAMC @F68@
+0 @P323@ INDI 
+1 NAME Chana /Sternbach/
+1 SEX F
+1 BIRT 
+1 FAMC @F68@
+0 @P324@ INDI 
+1 NAME Mendel /Sternbach/
+1 SEX M
+1 BIRT 
+1 FAMC @F68@
+0 @P325@ INDI 
+1 NAME Rafael /Sternbach/
+1 SEX M
+1 BIRT 
+1 FAMC @F114@
+0 @P326@ INDI 
+1 NAME Wife /Karp/
+1 SEX F
+1 BIRT 
+1 FAMS @F74@
+0 @P327@ INDI 
+1 NAME Boy /Karp/
+1 SEX M
+1 BIRT 
+1 FAMC @F74@
+0 @P328@ INDI 
+1 NAME Child /Karp/
+1 SEX M
+1 BIRT 
+1 FAMC @F115@
+0 @P329@ INDI 
+1 NAME Child2 /Karp/
+1 SEX F
+1 BIRT 
+1 FAMC @F115@
+0 @P330@ INDI 
+1 NAME Narkis /Tzoar/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMS @F84@
+0 @P331@ INDI 
+1 NAME D1 /Tzoar/
+1 SEX F
+1 BIRT 
+1 FAMC @F84@
+0 @P332@ INDI 
+1 NAME D2 /Tzoar/
+1 SEX F
+1 BIRT 
+1 FAMC @F84@
+0 @P333@ INDI 
+1 NAME D3 /Tzoar/
+1 SEX F
+1 BIRT 
+1 FAMC @F84@
+0 @P334@ INDI 
+1 NAME /Falk?/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMC @F116@
+0 @P335@ INDI 
+1 NAME /Falk?/
+1 SEX M
+1 BIRT 
+1 DEAT 
+1 FAMC @F117@
+1 FAMS @F116@
+0 @P336@ INDI 
+1 NAME Jacob Joshua /Falk/
+1 SEX M
+1 BIRT 
+2 DATE ABT 1680
+1 DEAT 
+2 DATE 16 JAN 1756
+1 TITL Rabbi
+1 FAMS @F117@
+0 @P337@ INDI 
+1 BIRT 
+2 DATE 23 May 1917
+2 PLAC N Y C N Y CO, New York
+2 SOUR @S291470506@
+3 _APID 1,1788::293890939
+2 SOUR @S291471713@
+3 _APID 1,60901::47789887
+2 SOUR @S291471746@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1925; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 40
+3 _APID 1,2704::14282953
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, New York, New York; Roll: T625_1191; Page: 1A; Enumeration District: 341
+3 _APID 1,6061::32405705
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0145; FHL microfilm: 2341285
+3 _APID 1,6224::41970216
+1 RESI Marital Status: SingleRelation to Head: Daughter
+2 DATE 1930
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0145; FHL microfilm: 2341285
+3 _APID 1,6224::41970216
+1 NAME Florence /Sternbach/
+2 SOUR @S291470498@
+3 PAGE City: Delray Beach; State: Florida; Year(s): 1995-1996
+3 _APID 1,7339::311173653
+2 SOUR @S291470506@
+3 _APID 1,1788::293890939
+2 SOUR @S291471713@
+3 _APID 1,60901::47789887
+2 SOUR @S291471746@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1925; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 40
+3 _APID 1,2704::14282953
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, New York, New York; Roll: T625_1191; Page: 1A; Enumeration District: 341
+3 _APID 1,6061::32405705
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0145; FHL microfilm: 2341285
+3 _APID 1,6224::41970216
+1 RESI Marital Status: SingleRelation to Head: Daughter
+2 DATE 1920
+2 PLAC Manhattan Assembly District 4, New York, New York, USA
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, New York, New York; Roll: T625_1191; Page: 1A; Enumeration District: 341
+3 _APID 1,6061::32405705
+1 RESI Relation to Head: Daughter
+2 DATE 1925
+2 PLAC New York, New York
+2 SOUR @S291471746@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1925; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 40
+3 _APID 1,2704::14282953
+1 DEAT 
+2 DATE 23 Oct 2002
+2 SOUR @S291471713@
+3 _APID 1,60901::47789887
+1 RESI 
+2 DATE 1993
+2 PLAC Delray Beach, FL
+2 SOUR @S291470506@
+3 _APID 1,1788::293890939
+1 RESI 
+2 DATE 1995-1996
+2 PLAC Delray Beach, Florida, USA
+2 SOUR @S291470498@
+3 PAGE City: Delray Beach; State: Florida; Year(s): 1995-1996
+3 _APID 1,7339::311173653
+1 SEX F
+1 FAMC @F86@
+1 FAMS @F85@
+0 @P338@ INDI 
+1 BIRT 
+2 DATE abt 1887
+2 PLAC Austria
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 13, New York, New York; Roll: T624_1029; Page: 26A; Enumeration District: 0765; FHL microfilm: 1375042
+3 _APID 1,7884::123577967
+2 SOUR @S291471720@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1915; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 22
+3 _APID 1,2703::7912723
+2 SOUR @S291471746@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1925; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 40
+3 _APID 1,2704::14282946
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, New York, New York; Roll: T625_1191; Page: 1A; Enumeration District: 341
+3 _APID 1,6061::32405702
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0145; FHL microfilm: 2341285
+3 _APID 1,6224::41970204
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1900
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 13, New York, New York; Roll: T624_1029; Page: 26A; Enumeration District: 0765; FHL microfilm: 1375042
+3 _APID 1,7884::123577967
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0145; FHL microfilm: 2341285
+3 _APID 1,6224::41970204
+1 RESI Marital Status: MarriedRelation to Head: Wife
+2 DATE 1930
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0145; FHL microfilm: 2341285
+3 _APID 1,6224::41970204
+1 NAME Sarah /Gottfried/
+2 SOUR @S291471713@
+3 _APID 1,60901::797789887
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 13, New York, New York; Roll: T624_1029; Page: 26A; Enumeration District: 0765; FHL microfilm: 1375042
+3 _APID 1,7884::123577967
+2 SOUR @S291471720@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1915; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 22
+3 _APID 1,2703::7912723
+2 SOUR @S291471746@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1925; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 40
+3 _APID 1,2704::14282946
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, New York, New York; Roll: T625_1191; Page: 1A; Enumeration District: 341
+3 _APID 1,6061::32405702
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0145; FHL microfilm: 2341285
+3 _APID 1,6224::41970204
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1898
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, New York, New York; Roll: T625_1191; Page: 1A; Enumeration District: 341
+3 _APID 1,6061::32405702
+1 RESI Marital Status: MarriedRelation to Head: Wife
+2 DATE 1920
+2 PLAC Manhattan Assembly District 4, New York, New York, USA
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, New York, New York; Roll: T625_1191; Page: 1A; Enumeration District: 341
+3 _APID 1,6061::32405702
+1 RESI Relation to Head: Wife
+2 DATE 1925
+2 PLAC New York, New York
+2 SOUR @S291471746@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1925; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 40
+3 _APID 1,2704::14282946
+1 RESI Relation to Head of House: Wife
+2 DATE 1 June 1915
+2 PLAC New York, New York, New York, United States
+2 SOUR @S291471720@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1915; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 22
+3 _APID 1,2703::7912723
+1 RESI Marital Status: MarriedRelation to Head of House: Wife
+2 DATE 1910
+2 PLAC Manhattan Ward 13, New York, New York, USA
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 13, New York, New York; Roll: T624_1029; Page: 26A; Enumeration District: 0765; FHL microfilm: 1375042
+3 _APID 1,7884::123577967
+1 SEX F
+1 FAMS @F86@
+0 @P339@ INDI 
+1 BIRT 
+2 DATE abt 1878
+2 PLAC Austria
+2 SOUR @S291471720@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1915; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 22
+3 _APID 1,2703::7912719
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 13, New York, New York; Roll: T624_1029; Page: 26A; Enumeration District: 0765; FHL microfilm: 1375042
+3 _APID 1,7884::18966827
+2 SOUR @S291471746@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1925; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 40
+3 _APID 1,2704::14282944
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, New York, New York; Roll: T625_1191; Page: 1A; Enumeration District: 341
+3 _APID 1,6061::32405701
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0145; FHL microfilm: 2341285
+3 _APID 1,6224::41970191
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1900
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0145; FHL microfilm: 2341285
+3 _APID 1,6224::41970191
+1 RESI Marital Status: MarriedRelation to Head: Head
+2 DATE 1930
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0145; FHL microfilm: 2341285
+3 _APID 1,6224::41970191
+1 NAME Louis /Buchwald/
+2 SOUR @S291471713@
+3 _APID 1,60901::647789887
+2 SOUR @S291471720@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1915; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 22
+3 _APID 1,2703::7912719
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 13, New York, New York; Roll: T624_1029; Page: 26A; Enumeration District: 0765; FHL microfilm: 1375042
+3 _APID 1,7884::18966827
+2 SOUR @S291471746@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1925; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 40
+3 _APID 1,2704::14282944
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, New York, New York; Roll: T625_1191; Page: 1A; Enumeration District: 341
+3 _APID 1,6061::32405701
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0145; FHL microfilm: 2341285
+3 _APID 1,6224::41970191
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1898
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, New York, New York; Roll: T625_1191; Page: 1A; Enumeration District: 341
+3 _APID 1,6061::32405701
+1 RESI Marital Status: MarriedRelation to Head: Head
+2 DATE 1920
+2 PLAC Manhattan Assembly District 4, New York, New York, USA
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, New York, New York; Roll: T625_1191; Page: 1A; Enumeration District: 341
+3 _APID 1,6061::32405701
+1 RESI Relation to Head: Head
+2 DATE 1925
+2 PLAC New York, New York
+2 SOUR @S291471746@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1925; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 40
+3 _APID 1,2704::14282944
+1 RESI Relation to Head of House: Head
+2 DATE 1 June 1915
+2 PLAC New York, New York, New York, United States
+2 SOUR @S291471720@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1915; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 22
+3 _APID 1,2703::7912719
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1899
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 13, New York, New York; Roll: T624_1029; Page: 26A; Enumeration District: 0765; FHL microfilm: 1375042
+3 _APID 1,7884::18966827
+1 RESI Marital Status: MarriedRelation to Head of House: Head
+2 DATE 1910
+2 PLAC Manhattan Ward 13, New York, New York, USA
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 13, New York, New York; Roll: T624_1029; Page: 26A; Enumeration District: 0765; FHL microfilm: 1375042
+3 _APID 1,7884::18966827
+1 SEX M
+1 FAMS @F86@
+0 @P340@ INDI 
+1 BIRT 
+2 DATE abt 1924
+2 PLAC USA
+2 SOUR @S291471746@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1925; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 40
+3 _APID 1,2704::14282958
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0145; FHL microfilm: 2341285
+3 _APID 1,6224::41970205
+1 RESI Marital Status: SingleRelation to Head: Son
+2 DATE 1930
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0145; FHL microfilm: 2341285
+3 _APID 1,6224::41970205
+1 NAME Elis /Buchwald/
+2 SOUR @S291471746@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1925; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 40
+3 _APID 1,2704::14282958
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0145; FHL microfilm: 2341285
+3 _APID 1,6224::41970205
+1 RESI Relation to Head: Son
+2 DATE 1925
+2 PLAC New York, New York
+2 SOUR @S291471746@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1925; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 40
+3 _APID 1,2704::14282958
+1 SEX M
+1 FAMC @F86@
+0 @P341@ INDI 
+1 BIRT 
+2 DATE abt 1912
+2 PLAC United States
+2 SOUR @S291471720@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1915; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 22
+3 _APID 1,2703::7912729
+2 SOUR @S291471746@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1925; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 40
+3 _APID 1,2704::14282951
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, New York, New York; Roll: T625_1191; Page: 1A; Enumeration District: 341
+3 _APID 1,6061::32405704
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0145; FHL microfilm: 2341285
+3 _APID 1,6224::41970214
+1 RESI Marital Status: SingleRelation to Head: Daughter
+2 DATE 1930
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0145; FHL microfilm: 2341285
+3 _APID 1,6224::41970214
+1 NAME Rose /Buchwald/
+2 SOUR @S291471720@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1915; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 22
+3 _APID 1,2703::7912729
+2 SOUR @S291471746@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1925; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 40
+3 _APID 1,2704::14282951
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, New York, New York; Roll: T625_1191; Page: 1A; Enumeration District: 341
+3 _APID 1,6061::32405704
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0145; FHL microfilm: 2341285
+3 _APID 1,6224::41970214
+1 RESI Marital Status: SingleRelation to Head: Daughter
+2 DATE 1920
+2 PLAC Manhattan Assembly District 4, New York, New York, USA
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, New York, New York; Roll: T625_1191; Page: 1A; Enumeration District: 341
+3 _APID 1,6061::32405704
+1 RESI Relation to Head: Daughter
+2 DATE 1925
+2 PLAC New York, New York
+2 SOUR @S291471746@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1925; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 40
+3 _APID 1,2704::14282951
+1 RESI Relation to Head of House: Daughter
+2 DATE 1 June 1915
+2 PLAC New York, New York, New York, United States
+2 SOUR @S291471720@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1915; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 22
+3 _APID 1,2703::7912729
+1 SEX F
+1 FAMC @F86@
+0 @P342@ INDI 
+1 BIRT 
+2 DATE abt 1909
+2 PLAC New York
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 13, New York, New York; Roll: T624_1029; Page: 26A; Enumeration District: 0765; FHL microfilm: 1375042
+3 _APID 1,7884::123577968
+2 SOUR @S291471720@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1915; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 22
+3 _APID 1,2703::7912726
+2 SOUR @S291471746@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1925; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 40
+3 _APID 1,2704::14282948
+2 SOUR @S291471747@
+3 _APID 1,9131::3693619
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, New York, New York; Roll: T625_1191; Page: 1A; Enumeration District: 341
+3 _APID 1,6061::32405703
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0145; FHL microfilm: 2341285
+3 _APID 1,6224::41970218
+1 RESI Marital Status: SingleRelation to Head: Son
+2 DATE 1930
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0145; FHL microfilm: 2341285
+3 _APID 1,6224::41970218
+1 NAME Isreal /Buchwald/
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 13, New York, New York; Roll: T624_1029; Page: 26A; Enumeration District: 0765; FHL microfilm: 1375042
+3 _APID 1,7884::123577968
+2 SOUR @S291471720@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1915; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 22
+3 _APID 1,2703::7912726
+2 SOUR @S291471746@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1925; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 40
+3 _APID 1,2704::14282948
+2 SOUR @S291471747@
+3 _APID 1,9131::3693619
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, New York, New York; Roll: T625_1191; Page: 1A; Enumeration District: 341
+3 _APID 1,6061::32405703
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0145; FHL microfilm: 2341285
+3 _APID 1,6224::41970218
+1 RESI Marital Status: SingleRelation to Head: Son
+2 DATE 1920
+2 PLAC Manhattan Assembly District 4, New York, New York, USA
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, New York, New York; Roll: T625_1191; Page: 1A; Enumeration District: 341
+3 _APID 1,6061::32405703
+1 DEAT 
+2 DATE 11 Mar 1936
+2 PLAC Manhattan, New York, USA
+2 SOUR @S291471747@
+3 _APID 1,9131::3693619
+1 RESI Relation to Head: Son
+2 DATE 1925
+2 PLAC New York, New York
+2 SOUR @S291471746@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1925; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 40
+3 _APID 1,2704::14282948
+1 RESI Relation to Head of House: Son
+2 DATE 1 June 1915
+2 PLAC New York, New York, New York, United States
+2 SOUR @S291471720@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1915; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 22
+3 _APID 1,2703::7912726
+1 RESI Marital Status: SingleRelation to Head of House: Son
+2 DATE 1910
+2 PLAC Manhattan Ward 13, New York, New York, USA
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 13, New York, New York; Roll: T624_1029; Page: 26A; Enumeration District: 0765; FHL microfilm: 1375042
+3 _APID 1,7884::123577968
+1 SEX M
+1 FAMC @F86@
+0 @P343@ INDI 
+1 BIRT 
+2 DATE 21 Apr 1919
+2 PLAC New York City, New York, USA
+2 SOUR @S291471746@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1925; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 40
+3 _APID 1,2704::14282955
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, New York, New York; Roll: T625_1191; Page: 1A; Enumeration District: 341
+3 _APID 1,6061::32405706
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0145; FHL microfilm: 2341285
+3 _APID 1,6224::41970181
+2 SOUR @S291471798@
+3 _APID 1,61457::1405437
+1 NAME Dora /Buchwald/
+2 SOUR @S291471746@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1925; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 40
+3 _APID 1,2704::14282955
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, New York, New York; Roll: T625_1191; Page: 1A; Enumeration District: 341
+3 _APID 1,6061::32405706
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0145; FHL microfilm: 2341285
+3 _APID 1,6224::41970181
+2 SOUR @S291471798@
+3 _APID 1,61457::1405437
+1 RESI Marital Status: SingleRelation to Head: Daughter
+2 DATE 1930
+2 PLAC Manhattan, New York, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Manhattan, New York, New York; Page: 5A; Enumeration District: 0145; FHL microfilm: 2341285
+3 _APID 1,6224::41970181
+1 RESI Marital Status: SingleRelation to Head: Daughter
+2 DATE 1920
+2 PLAC Manhattan Assembly District 4, New York, New York, USA
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, New York, New York; Roll: T625_1191; Page: 1A; Enumeration District: 341
+3 _APID 1,6061::32405706
+1 RESI Relation to Head: Daughter
+2 DATE 1925
+2 PLAC New York, New York
+2 SOUR @S291471746@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1925; Election District: 11; Assembly District: 04; City: New York; County: New York; Page: 40
+3 _APID 1,2704::14282955
+1 SEX F
+1 FAMC @F86@
+0 @P344@ INDI 
+1 NAME Harry P. /Goldberg/
+1 BIRT 
+2 DATE 22 Oct 1903
+2 PLAC Russia
+1 DEAT 
+2 DATE 19 May 1995
+2 PLAC 11426 Jamaica, Queens, New York, USA
+1 NAME Harry /Goldberg/
+1 SEX M
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=344
+1 FAMC @F97@
+1 FAMS @F87@
+0 @P345@ INDI 
+1 NAME William /Goldberg/
+1 SEX M
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=345
+1 FAMC @F87@
+0 @P346@ INDI 
+1 NAME Nancy Ethel /Goldberg Ries/
+1 BIRT 
+2 DATE 28 Jun 1939
+2 PLAC New York, New York, USA
+1 DEAT 
+2 DATE 04 Jul 2003
+2 PLAC Overland Park, Johnson, Kansas, USA
+1 SEX F
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=346
+1 FAMC @F87@
+1 FAMS @F95@
+1 FAMS @F96@
+0 @P347@ INDI 
+1 NAME Sarah /Goldberg/
+1 SEX F
+1 FAMS @F97@
+0 @P348@ INDI 
+1 BIRT 
+2 PLAC Austria
+1 DEAT 
+2 PLAC Brooklyn, Kings, New York, USA
+1 NAME Max /Goldberg/
+1 SEX M
+1 FAMS @F97@
+0 @P349@ INDI 
+1 SEX M
+1 NAME Lloyd /Lewis/
+1 FAMS @F96@
+0 @P350@ INDI 
+1 SEX M
+1 NAME Robin /Lewis/
+1 FAMC @F96@
+0 @P351@ INDI 
+1 SEX F
+1 NAME Leslie /Ries/
+1 FAMC @F95@
+1 FAMS @F119@
+0 @P352@ INDI 
+1 SEX F
+1 NAME Jennifer /Ries/
+1 FAMC @F95@
+0 @P353@ INDI 
+1 BIRT 
+2 DATE 09 Jan 1933
+2 PLAC Huntington, Long Island, New York
+2 SOUR @S291470489@
+3 _APID 1,1732::394127861
+1 RESI 
+2 PLAC Silver Spring, Maryland, USA
+2 SOUR @S291470489@
+3 _APID 1,1732::394127861
+1 NAME Peter W /Ries/
+2 SOUR @S291470489@
+3 _APID 1,1732::394127861
+1 DEAT 
+2 DATE 14 Nov 2016
+2 PLAC Silver Spring, Montgomery, Maryland, USA
+1 SEX M
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=353
+1 FAMS @F95@
+0 @P354@ INDI 
+1 BIRT 
+2 DATE 5 May 1888
+2 PLAC Minsk, Belarus
+1 DEAT 
+2 DATE 29 10 1945
+2 PLAC Brooklyn, New York City, New York, USA
+1 NAME Louis /Rothstein/
+1 SEX M
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=354
+1 FAMC @F88@
+0 @P355@ INDI 
+1 BIRT 
+2 DATE abt 1888
+2 PLAC Russia
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Page: 42A; Enumeration District: 0430; FHL microfilm: 2341213
+3 _APID 1,6224::30826500
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New York; Roll: T624_1008; Page: 11A; Enumeration District: 1690; FHL microfilm: 1375021
+3 _APID 1,7884::103385086
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1906
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New York; Roll: T624_1008; Page: 11A; Enumeration District: 1690; FHL microfilm: 1375021
+3 _APID 1,7884::103385086
+1 RESI Marital Status: SingleRelation to Head of House: Boarder
+2 DATE 1910
+2 PLAC Manhattan Ward 7, New York, New York, USA
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New York; Roll: T624_1008; Page: 11A; Enumeration District: 1690; FHL microfilm: 1375021
+3 _APID 1,7884::103385086
+1 NAME Lillian Rothstein /Yourow/
+2 SOUR @S291470533@
+3 PAGE New York City Municipal Archives; New York, New York; Borough: Manhattan; Volume Number: 13
+3 _APID 1,61406::6139549
+2 SOUR @S291471713@
+3 _APID 1,60901::782028974
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Page: 42A; Enumeration District: 0430; FHL microfilm: 2341213
+3 _APID 1,6224::30826500
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New York; Roll: T624_1008; Page: 11A; Enumeration District: 1690; FHL microfilm: 1375021
+3 _APID 1,7884::103385086
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1905
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Page: 42A; Enumeration District: 0430; FHL microfilm: 2341213
+3 _APID 1,6224::30826500
+1 RESI Marital Status: MarriedRelation to Head: Wife
+2 DATE 1930
+2 PLAC Bronx, Bronx, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Page: 42A; Enumeration District: 0430; FHL microfilm: 2341213
+3 _APID 1,6224::30826500
+1 DEAT 
+2 DATE 15 Feb 1961
+2 PLAC New York, New York, USA
+1 SEX F
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=355
+1 FAMC @F88@
+1 FAMS @F91@
+0 @P356@ INDI 
+1 BIRT 
+2 DATE abt 1892
+2 PLAC Russia
+2 SOUR @S291471720@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1915; Election District: 07; Assembly District: 34; City: New York; County: Bronx; Page: 29
+3 _APID 1,2703::9792744
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 23, Kings, New York; Roll: T625_1182; Page: 19B; Enumeration District: 1514
+3 _APID 1,6061::27113116
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1908
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 23, Kings, New York; Roll: T625_1182; Page: 19B; Enumeration District: 1514
+3 _APID 1,6061::27113116
+1 RESI Marital Status: MarriedRelation to Head: Wife
+2 DATE 1920
+2 PLAC Brooklyn Assembly District 23, Kings, New York, USA
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 23, Kings, New York; Roll: T625_1182; Page: 19B; Enumeration District: 1514
+3 _APID 1,6061::27113116
+1 NAME Minnie Rothstein /Pogoloff/
+2 SOUR @S291543819@
+3 _APID 1,60525::62070703
+2 SOUR @S291545531@
+3 _APID 1,9105::2661755
+2 SOUR @S291471720@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1915; Election District: 07; Assembly District: 34; City: New York; County: Bronx; Page: 29
+3 _APID 1,2703::9792744
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 23, Kings, New York; Roll: T625_1182; Page: 19B; Enumeration District: 1514
+3 _APID 1,6061::27113116
+1 RESI Relation to Head of House: Wife
+2 DATE 1 June 1915
+2 PLAC New York, Bronx, New York, United States
+2 SOUR @S291471720@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1915; Election District: 07; Assembly District: 34; City: New York; County: Bronx; Page: 29
+3 _APID 1,2703::9792744
+1 DEAT 
+2 DATE 9 Oct 1939
+2 PLAC Kings, New York, USA
+2 SOUR @S291543819@
+3 _APID 1,60525::62070703
+1 BURI 
+2 PLAC Glendale, Queens County, New York, United States of America
+2 SOUR @S291543819@
+3 _APID 1,60525::62070703
+1 SEX F
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=356
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=80a9a822-f61d-42fc-82fc-02b785b41a7b&tid=165562359&pid=356
+2 FORM jpg
+2 TITL MINNIE POGOLOFF
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=82f04b75-8b59-4264-927c-ab47df702d40&tid=165562359&pid=356
+2 FORM jpg
+2 TITL MINNIE POGOLOFF
+1 FAMC @F88@
+1 FAMS @F90@
+0 @P357@ INDI 
+1 BIRT 
+2 DATE abt 1890
+2 PLAC Russia
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Fall River, Bristol, Massachusetts; Page: 7A; Enumeration District: 0036; FHL microfilm: 2340623
+3 _APID 1,6224::14684164
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1892
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Fall River, Bristol, Massachusetts; Page: 7A; Enumeration District: 0036; FHL microfilm: 2340623
+3 _APID 1,6224::14684164
+1 RESI Marital Status: SingleRelation to Head: Son
+2 DATE 1930
+2 PLAC Fall River, Bristol, Massachusetts, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Fall River, Bristol, Massachusetts; Page: 7A; Enumeration District: 0036; FHL microfilm: 2340623
+3 _APID 1,6224::14684164
+1 NAME Charles /Hurwitz/
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Fall River, Bristol, Massachusetts; Page: 7A; Enumeration District: 0036; FHL microfilm: 2340623
+3 _APID 1,6224::14684164
+1 SEX M
+1 FAMC @F89@
+0 @P358@ INDI 
+1 BIRT 
+2 DATE abt 1887
+2 PLAC Russia
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Fall River, Bristol, Massachusetts; Page: 7A; Enumeration District: 0036; FHL microfilm: 2340623
+3 _APID 1,6224::14684172
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1892
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Fall River, Bristol, Massachusetts; Page: 7A; Enumeration District: 0036; FHL microfilm: 2340623
+3 _APID 1,6224::14684172
+1 RESI Marital Status: WidowedRelation to Head: Son
+2 DATE 1930
+2 PLAC Fall River, Bristol, Massachusetts, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Fall River, Bristol, Massachusetts; Page: 7A; Enumeration District: 0036; FHL microfilm: 2340623
+3 _APID 1,6224::14684172
+1 NAME Julius /Hurwitz/
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Fall River, Bristol, Massachusetts; Page: 7A; Enumeration District: 0036; FHL microfilm: 2340623
+3 _APID 1,6224::14684172
+1 SEX M
+1 FAMC @F89@
+0 @P359@ INDI 
+1 BIRT 
+2 DATE abt 1889
+2 PLAC Russia
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Fall River Ward 3, Bristol, Massachusetts; Roll: T624_576; Page: 5B; Enumeration District: 0133; FHL microfilm: 1374589
+3 _APID 1,7884::133799266
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Fall River, Bristol, Massachusetts; Page: 7A; Enumeration District: 0036; FHL microfilm: 2340623
+3 _APID 1,6224::14684197
+2 SOUR @S291662254@
+3 _APID 1,1411::854432
+1 DEAT 
+2 DATE 28 Feb 1942
+2 PLAC Manhattan, New York
+2 SOUR @S291662254@
+3 _APID 1,1411::854432
+1 BURI 
+2 PLAC Queens, New York, United States
+2 SOUR @S291662254@
+3 _APID 1,1411::854432
+1 NAME Bessie /Hurvitz/
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Fall River Ward 3, Bristol, Massachusetts; Roll: T624_576; Page: 5B; Enumeration District: 0133; FHL microfilm: 1374589
+3 _APID 1,7884::133799266
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Fall River, Bristol, Massachusetts; Page: 7A; Enumeration District: 0036; FHL microfilm: 2340623
+3 _APID 1,6224::14684197
+2 SOUR @S291662254@
+3 _APID 1,1411::854432
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1896
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Fall River Ward 3, Bristol, Massachusetts; Roll: T624_576; Page: 5B; Enumeration District: 0133; FHL microfilm: 1374589
+3 _APID 1,7884::133799266
+1 RESI Marital Status: SingleRelation to Head of House: Daughter
+2 DATE 1910
+2 PLAC Fall River Ward 3, Bristol, Massachusetts, USA
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Fall River Ward 3, Bristol, Massachusetts; Roll: T624_576; Page: 5B; Enumeration District: 0133; FHL microfilm: 1374589
+3 _APID 1,7884::133799266
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1892
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Fall River, Bristol, Massachusetts; Page: 7A; Enumeration District: 0036; FHL microfilm: 2340623
+3 _APID 1,6224::14684197
+1 RESI Marital Status: SingleRelation to Head: Daughter
+2 DATE 1930
+2 PLAC Fall River, Bristol, Massachusetts, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Fall River, Bristol, Massachusetts; Page: 7A; Enumeration District: 0036; FHL microfilm: 2340623
+3 _APID 1,6224::14684197
+1 SEX F
+1 FAMC @F89@
+0 @P360@ INDI 
+1 BIRT 
+2 DATE abt 1898
+2 PLAC Massachusetts
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Fall River Ward 3, Bristol, Massachusetts; Roll: T624_576; Page: 5B; Enumeration District: 0133; FHL microfilm: 1374589
+3 _APID 1,7884::133799269
+1 RESI Marital Status: SingleRelation to Head of House: Daughter
+2 DATE 1910
+2 PLAC Fall River Ward 3, Bristol, Massachusetts, USA
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Fall River Ward 3, Bristol, Massachusetts; Roll: T624_576; Page: 5B; Enumeration District: 0133; FHL microfilm: 1374589
+3 _APID 1,7884::133799269
+1 NAME Gussie /Hurvitz/
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Fall River Ward 3, Bristol, Massachusetts; Roll: T624_576; Page: 5B; Enumeration District: 0133; FHL microfilm: 1374589
+3 _APID 1,7884::133799269
+1 SEX F
+1 FAMC @F89@
+0 @P361@ INDI 
+1 BIRT 
+2 DATE abt 1894
+2 PLAC Russia
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Fall River Ward 3, Bristol, Massachusetts; Roll: T624_576; Page: 5B; Enumeration District: 0133; FHL microfilm: 1374589
+3 _APID 1,7884::133799268
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1896
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Fall River Ward 3, Bristol, Massachusetts; Roll: T624_576; Page: 5B; Enumeration District: 0133; FHL microfilm: 1374589
+3 _APID 1,7884::133799268
+1 RESI Marital Status: SingleRelation to Head of House: Daughter
+2 DATE 1910
+2 PLAC Fall River Ward 3, Bristol, Massachusetts, USA
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Fall River Ward 3, Bristol, Massachusetts; Roll: T624_576; Page: 5B; Enumeration District: 0133; FHL microfilm: 1374589
+3 _APID 1,7884::133799268
+1 NAME Lizzie /Hurvitz/
+2 SOUR @S291471728@
+3 PAGE Year: 1910; Census Place: Fall River Ward 3, Bristol, Massachusetts; Roll: T624_576; Page: 5B; Enumeration District: 0133; FHL microfilm: 1374589
+3 _APID 1,7884::133799268
+1 SEX F
+1 FAMC @F89@
+0 @P362@ INDI 
+1 BIRT 
+2 DATE 23 Jan 1919
+2 PLAC N Y C, New York
+2 SOUR @S291471713@
+3 _APID 1,60901::32028974
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Page: 42A; Enumeration District: 0430; FHL microfilm: 2341213
+3 _APID 1,6224::30826469
+1 RESI Marital Status: SingleRelation to Head: Son
+2 DATE 1930
+2 PLAC Bronx, Bronx, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Page: 42A; Enumeration District: 0430; FHL microfilm: 2341213
+3 _APID 1,6224::30826469
+1 NAME Morton /Yourow/
+2 SOUR @S291471713@
+3 _APID 1,60901::32028974
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Page: 42A; Enumeration District: 0430; FHL microfilm: 2341213
+3 _APID 1,6224::30826469
+1 DEAT 
+2 DATE 18 Jan 2006
+2 SOUR @S291471713@
+3 _APID 1,60901::32028974
+1 SEX M
+1 FAMC @F91@
+0 @P363@ INDI 
+1 BIRT 
+2 DATE abt 1888
+2 PLAC Russia
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Page: 42A; Enumeration District: 0430; FHL microfilm: 2341213
+3 _APID 1,6224::30826480
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1905
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Page: 42A; Enumeration District: 0430; FHL microfilm: 2341213
+3 _APID 1,6224::30826480
+1 RESI Marital Status: MarriedRelation to Head: Head
+2 DATE 1930
+2 PLAC Bronx, Bronx, New York, USA
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Page: 42A; Enumeration District: 0430; FHL microfilm: 2341213
+3 _APID 1,6224::30826480
+1 NAME Jacob /Yourow/
+2 SOUR @S291470533@
+3 PAGE New York City Municipal Archives; New York, New York; Borough: Manhattan; Volume Number: 13
+3 _APID 1,61406::6159341
+2 SOUR @S291470520@
+3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Page: 42A; Enumeration District: 0430; FHL microfilm: 2341213
+3 _APID 1,6224::30826480
+1 SEX M
+1 FAMS @F91@
+0 @P364@ INDI 
+1 BIRT 
+2 DATE 1 Aug 1915
+2 PLAC New York
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 23, Kings, New York; Roll: T625_1182; Page: 20A; Enumeration District: 1514
+3 _APID 1,6061::27113117
+1 RESI Marital Status: SingleRelation to Head: Daughter
+2 DATE 1920
+2 PLAC Brooklyn Assembly District 23, Kings, New York, USA
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 23, Kings, New York; Roll: T625_1182; Page: 20A; Enumeration District: 1514
+3 _APID 1,6061::27113117
+1 NAME Leah Handler /Pogoloff/
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 23, Kings, New York; Roll: T625_1182; Page: 20A; Enumeration District: 1514
+3 _APID 1,6061::27113117
+1 DEAT 
+2 DATE 22 Nov 1993
+2 PLAC Panorama City, Los Angeles, California, United States of America
+1 SEX F
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=364
+1 FAMC @F90@
+0 @P365@ INDI 
+1 BIRT 
+2 DATE 14 DEC 1899
+2 PLAC Russia
+2 SOUR @S291471720@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1915; Election District: 07; Assembly District: 34; City: New York; County: Bronx; Page: 29
+3 _APID 1,2703::9792743
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 23, Kings, New York; Roll: T625_1182; Page: 19B; Enumeration District: 1514
+3 _APID 1,6061::27113115
+1 EVEN 
+2 TYPE Arrival
+2 DATE 1906
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 23, Kings, New York; Roll: T625_1182; Page: 19B; Enumeration District: 1514
+3 _APID 1,6061::27113115
+1 RESI Marital Status: MarriedRelation to Head: Head
+2 DATE 1920
+2 PLAC Brooklyn Assembly District 23, Kings, New York, USA
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 23, Kings, New York; Roll: T625_1182; Page: 19B; Enumeration District: 1514
+3 _APID 1,6061::27113115
+1 NAME Aaron (Abram) Harry /Pogoloff/
+2 SOUR @S291545531@
+3 _APID 1,9105::2128658
+2 SOUR @S291471720@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1915; Election District: 07; Assembly District: 34; City: New York; County: Bronx; Page: 29
+3 _APID 1,2703::9792743
+2 SOUR @S291471761@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 23, Kings, New York; Roll: T625_1182; Page: 19B; Enumeration District: 1514
+3 _APID 1,6061::27113115
+1 RESI Relation to Head of House: Head
+2 DATE 1 June 1915
+2 PLAC New York, Bronx, New York, United States
+2 SOUR @S291471720@
+3 PAGE New York State Archives; Albany, New York; State Population Census Schedules, 1915; Election District: 07; Assembly District: 34; City: New York; County: Bronx; Page: 29
+3 _APID 1,2703::9792743
+1 DEAT 
+2 DATE 11 July 1965
+2 PLAC New York,   United States
+1 SEX M
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=365
+1 FAMS @F90@
+0 @P366@ INDI 
+1 BIRT 
+2 DATE 28 02 1921
+2 PLAC Brooklyn, Kings, New York, USA
+1 DEAT 
+2 DATE 24 01 2005
+2 PLAC Silver Spring, Montgomery, Maryland, USA
+1 NAME David /Pogoloff/
+1 SEX M
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=366
+1 FAMC @F90@
+1 FAMS @F118@
+0 @P367@ INDI 
+1 BIRT 
+2 DATE 9 Oct 1924
+2 PLAC New York
+1 DEAT 
+2 DATE 1 Mar 2011
+2 PLAC Westbury, Nassau, New York
+1 NAME Kalvin  /Pogoloff/
+1 SEX M
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=367
+1 FAMC @F90@
+0 @P368@ INDI 
+1 BIRT 
+2 DATE 22 10 1947
+1 DEAT 
+2 DATE 19 06 2014
+1 NAME Marilyn /Pogoloff/
+1 SEX F
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=368
+1 FAMC @F118@
+0 @P369@ INDI 
+1 SEX F
+1 NAME Abigail /Vernon/
+1 BIRT 
+2 DATE 01 jan 2008
+1 FAMC @F119@
+0 @P370@ INDI 
+1 NAME Nathaniel /Vernon/
+1 BIRT 
+2 DATE 01 jan 2006
+1 SEX M
+1 FAMC @F119@
+0 @P371@ INDI 
+1 BIRT 
+2 DATE 7 Jan 1922
+2 PLAC Schenectady, New York
+1 DEAT 
+2 DATE 26 Feb 2000
+2 PLAC Brooklyn, Kings, New York, USA
+1 NAME Gertrude Laura /Erlich/
+1 SEX F
+1 SOUR @S291470073@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=165562359&pid=371
+0 @P372@ INDI 
+1 SEX M
+1 NAME Max /Goldberg/
+1 FAMS @F98@
+0 @P373@ INDI 
+1 BIRT 
+2 DATE 1876
+1 SEX F
+1 NAME Sarah
+1 FAMS @F98@
+0 @F1@ FAM 
+1 HUSB @P2@
+1 WIFE @P3@
+1 CHIL @P1@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P6@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P7@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P8@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P9@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P10@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P11@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P12@
+2 _FREL Natural
+2 _MREL Natural
+0 @F2@ FAM 
+1 HUSB @P11@
+1 WIFE @P18@
+1 CHIL @P19@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P20@
+2 _FREL Natural
+2 _MREL Natural
+0 @F3@ FAM 
+1 HUSB @P12@
+1 WIFE @P21@
+1 CHIL @P22@
+2 _FREL Natural
+2 _MREL Natural
+0 @F4@ FAM 
+1 HUSB @P4@
+1 WIFE @P5@
+1 CHIL @P2@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P23@
+2 _FREL Natural
+2 _MREL Natural
+0 @F5@ FAM 
+1 HUSB @P4@
+1 WIFE @P29@
+0 @F6@ FAM 
+1 HUSB @P15@
+1 WIFE @P3@
+0 @F7@ FAM 
+1 HUSB @P15@
+1 WIFE @P32@
+1 MARR 
+2 DATE 1985
+2 PLAC New York City, New York, USA
+2 SOUR @S291470533@
+3 PAGE New York City Municipal Archives; New York, New York; Borough: Brooklyn
+3 _APID 1,61406::3212186
+0 @F8@ FAM 
+1 HUSB @P13@
+1 WIFE @P14@
+1 CHIL @P3@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P35@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P36@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P37@
+2 _FREL Natural
+2 _MREL Natural
+0 @F9@ FAM 
+1 HUSB @P36@
+1 WIFE @P44@
+0 @F10@ FAM 
+1 HUSB @P16@
+1 WIFE @P9@
+1 CHIL @P17@
+2 _FREL Natural
+2 _MREL Natural
+0 @F11@ FAM 
+1 HUSB @P26@
+1 WIFE @P25@
+1 CHIL @P47@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P5@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 17 Jan 1913
+2 PLAC Fall River, Bristol, Massachusetts, USA
+0 @F12@ FAM 
+1 HUSB @P27@
+1 WIFE @P28@
+1 CHIL @P4@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P52@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P53@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P55@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P57@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P54@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P56@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1 Apr 1911
+2 PLAC Manhattan, New York City, New York, USA
+0 @F13@ FAM 
+1 HUSB @P57@
+1 WIFE @P60@
+0 @F14@ FAM 
+1 HUSB @P52@
+1 WIFE @P61@
+1 CHIL @P62@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P63@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P64@
+2 _FREL Natural
+2 _MREL Natural
+0 @F15@ FAM 
+1 HUSB @P30@
+1 WIFE @P23@
+1 CHIL @P31@
+2 _FREL Natural
+2 _MREL Natural
+0 @F16@ FAM 
+1 HUSB @P33@
+1 WIFE @P34@
+1 CHIL @P13@
+2 _FREL Natural
+2 _MREL Natural
+0 @F17@ FAM 
+1 HUSB @P38@
+1 WIFE @P39@
+1 CHIL @P14@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P75@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P76@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P77@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P78@
+2 _FREL Natural
+2 _MREL Natural
+0 @F18@ FAM 
+1 HUSB @P40@
+1 WIFE @P35@
+1 CHIL @P41@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P42@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P43@
+2 _FREL Natural
+2 _MREL Natural
+0 @F19@ FAM 
+1 HUSB @P50@
+1 WIFE @P51@
+1 CHIL @P28@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P97@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P98@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P99@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P100@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P101@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P102@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P103@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P104@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P105@
+2 _FREL Natural
+2 _MREL Natural
+0 @F20@ FAM 
+1 HUSB @P99@
+1 WIFE @P110@
+1 CHIL @P111@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P112@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P113@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P114@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P115@
+2 _FREL Natural
+2 _MREL Natural
+0 @F21@ FAM 
+1 HUSB @P58@
+1 WIFE @P59@
+1 CHIL @P121@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P27@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P128@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P123@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P122@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P126@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P125@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P127@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P129@
+2 _FREL Natural
+2 _MREL Natural
+0 @F22@ FAM 
+1 HUSB @P58@
+1 WIFE @P130@
+0 @F23@ FAM 
+1 HUSB @P126@
+1 WIFE @P131@
+1 CHIL @P135@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P136@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P134@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P133@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P132@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1924
+0 @F24@ FAM 
+1 HUSB @P125@
+1 WIFE @P137@
+1 CHIL @P138@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 23 Jan 1926
+2 PLAC Manhattan, New York, USA
+0 @F25@ FAM 
+1 HUSB @P123@
+1 WIFE @P158@
+0 @F26@ FAM 
+1 HUSB @P123@
+1 WIFE @P159@
+1 CHIL @P160@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P163@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P161@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P162@
+2 _FREL Natural
+2 _MREL Natural
+0 @F27@ FAM 
+1 HUSB @P65@
+1 WIFE @P53@
+1 CHIL @P66@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P67@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P68@
+2 _FREL Natural
+2 _MREL Natural
+0 @F28@ FAM 
+1 HUSB @P67@
+1 WIFE @P180@
+1 CHIL @P181@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P182@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P183@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P184@
+2 _FREL Natural
+2 _MREL Natural
+0 @F29@ FAM 
+1 HUSB @P69@
+1 WIFE @P70@
+1 CHIL @P33@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P185@
+2 _FREL Natural
+2 _MREL Natural
+0 @F30@ FAM 
+1 HUSB @P71@
+1 WIFE @P72@
+1 CHIL @P34@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P186@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P187@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P188@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P189@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P190@
+2 _FREL Natural
+2 _MREL Natural
+0 @F31@ FAM 
+1 HUSB @P73@
+1 WIFE @P74@
+1 CHIL @P39@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P193@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P194@
+2 _FREL Natural
+2 _MREL Natural
+0 @F32@ FAM 
+1 HUSB @P95@
+1 WIFE @P96@
+1 CHIL @P51@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P198@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P199@
+2 _FREL Natural
+2 _MREL Natural
+0 @F33@ FAM 
+1 HUSB @P106@
+1 WIFE @P107@
+1 CHIL @P50@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P214@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P215@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P216@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P217@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P218@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P219@
+2 _FREL Natural
+2 _MREL Natural
+0 @F34@ FAM 
+1 HUSB @P108@
+1 WIFE @P98@
+1 CHIL @P109@
+2 _FREL Natural
+2 _MREL Natural
+0 @F35@ FAM 
+1 HUSB @P116@
+1 WIFE @P100@
+0 @F36@ FAM 
+1 HUSB @P117@
+1 WIFE @P234@
+1 CHIL @P235@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P236@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P237@
+2 _FREL Natural
+2 _MREL Natural
+0 @F37@ FAM 
+1 HUSB @P118@
+1 WIFE @P103@
+1 CHIL @P119@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P120@
+2 _FREL Natural
+2 _MREL Natural
+0 @F38@ FAM 
+1 HUSB @P119@
+1 WIFE @P238@
+1 CHIL @P241@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P242@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P243@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 20 DEC 1987
+0 @F39@ FAM 
+1 HUSB @P138@
+1 WIFE @P260@
+1 CHIL @P261@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P262@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P263@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1953
+2 PLAC New York City, New York, USA
+2 SOUR @S291470533@
+3 PAGE New York City Municipal Archives; New York, New York; Borough: Manhattan
+3 _APID 1,61406::3739547
+0 @F40@ FAM 
+1 HUSB @P139@
+1 WIFE @P121@
+1 CHIL @P140@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P141@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P142@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P146@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P143@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P145@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P144@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P147@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1880
+2 SOUR @S291545868@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Page: 20; Enumeration District: 0286; FHL microfilm: 1241094
+3 _APID 1,7602::38107023
+0 @F41@ FAM 
+1 HUSB @P148@
+1 WIFE @P122@
+1 CHIL @P149@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P154@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P152@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P153@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P157@
+2 _FREL Natural
+2 _MREL Natural
+0 @F42@ FAM 
+1 HUSB @P164@
+1 WIFE @P62@
+1 CHIL @P165@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P166@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P167@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P168@
+2 _FREL Natural
+2 _MREL Natural
+0 @F43@ FAM 
+1 HUSB @P169@
+1 WIFE @P63@
+1 CHIL @P170@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P171@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P172@
+2 _FREL Natural
+2 _MREL Natural
+0 @F44@ FAM 
+1 HUSB @P170@
+1 WIFE @P276@
+1 MARR 
+2 DATE 13 JUL 2014
+0 @F45@ FAM 
+1 HUSB @P171@
+1 WIFE @P277@
+1 CHIL @P278@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P279@
+2 _FREL Natural
+2 _MREL Natural
+0 @F46@ FAM 
+1 HUSB @P173@
+1 WIFE @P64@
+1 CHIL @P174@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P175@
+2 _FREL Natural
+2 _MREL Natural
+0 @F47@ FAM 
+1 HUSB @P176@
+1 WIFE @P66@
+1 CHIL @P177@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P178@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P179@
+2 _FREL Natural
+2 _MREL Natural
+0 @F48@ FAM 
+1 HUSB @P192@
+1 WIFE @P186@
+0 @F49@ FAM 
+1 HUSB @P200@
+1 WIFE @P198@
+1 CHIL @P201@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P202@
+2 _FREL Natural
+2 _MREL Natural
+0 @F50@ FAM 
+1 HUSB @P201@
+1 WIFE @P287@
+1 CHIL @P288@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P289@
+2 _FREL Natural
+2 _MREL Natural
+0 @F51@ FAM 
+1 HUSB @P203@
+1 WIFE @P199@
+1 CHIL @P204@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P205@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P206@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P207@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P208@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P209@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P210@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P211@
+2 _FREL Natural
+2 _MREL Natural
+0 @F52@ FAM 
+1 HUSB @P204@
+1 WIFE @P292@
+0 @F53@ FAM 
+1 HUSB @P205@
+1 WIFE @P293@
+0 @F54@ FAM 
+1 HUSB @P206@
+1 WIFE @P294@
+0 @F55@ FAM 
+1 HUSB @P212@
+1 WIFE @P213@
+1 CHIL @P106@
+2 _FREL Natural
+2 _MREL Natural
+0 @F56@ FAM 
+1 HUSB @P220@
+1 WIFE @P111@
+1 CHIL @P222@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P223@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P224@
+2 _FREL Natural
+2 _MREL Natural
+0 @F57@ FAM 
+1 HUSB @P221@
+1 WIFE @P111@
+0 @F58@ FAM 
+1 HUSB @P225@
+1 WIFE @P112@
+0 @F59@ FAM 
+1 HUSB @P226@
+1 WIFE @P114@
+1 CHIL @P227@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P228@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P229@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P230@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P231@
+2 _FREL Natural
+2 _MREL Natural
+0 @F60@ FAM 
+1 HUSB @P228@
+1 WIFE @P302@
+0 @F61@ FAM 
+1 HUSB @P236@
+1 WIFE @P307@
+1 CHIL @P308@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P309@
+2 _FREL Natural
+2 _MREL Natural
+0 @F62@ FAM 
+1 HUSB @P246@
+1 WIFE @P314@
+0 @F63@ FAM 
+1 HUSB @P247@
+1 WIFE @P315@
+1 CHIL @P316@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 20 JUL 2002
+0 @F64@ FAM 
+1 HUSB @P248@
+1 WIFE @P317@
+1 CHIL @P318@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P319@
+2 _FREL Natural
+2 _MREL Natural
+0 @F65@ FAM 
+1 HUSB @P244@
+1 WIFE @P120@
+1 MARR 
+2 DATE 1 JUN 1986
+2 PLAC Hickory Gate Drive
+0 @F66@ FAM 
+1 HUSB @P245@
+1 WIFE @P120@
+0 @F67@ FAM 
+1 HUSB @P258@
+1 WIFE @P134@
+1 CHIL @P259@
+2 _FREL Natural
+2 _MREL Natural
+0 @F68@ FAM 
+1 HUSB @P261@
+1 WIFE @P320@
+1 CHIL @P321@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P322@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P323@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P324@
+2 _FREL Natural
+2 _MREL Natural
+0 @F69@ FAM 
+1 HUSB @P264@
+1 WIFE @P153@
+1 CHIL @P265@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P266@
+2 _FREL Natural
+2 _MREL Natural
+0 @F70@ FAM 
+1 HUSB @P268@
+1 WIFE @P160@
+0 @F71@ FAM 
+1 HUSB @P270@
+1 WIFE @P165@
+1 CHIL @P271@
+2 _FREL Natural
+2 _MREL Natural
+0 @F72@ FAM 
+1 HUSB @P272@
+1 WIFE @P166@
+1 CHIL @P273@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P274@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P275@
+2 _FREL Natural
+2 _MREL Natural
+0 @F73@ FAM 
+1 HUSB @P280@
+1 WIFE @P172@
+1 CHIL @P281@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P282@
+2 _FREL Natural
+2 _MREL Natural
+0 @F74@ FAM 
+1 HUSB @P288@
+1 WIFE @P326@
+1 CHIL @P327@
+2 _FREL Natural
+2 _MREL Natural
+0 @F75@ FAM 
+1 HUSB @P290@
+1 WIFE @P202@
+1 CHIL @P291@
+2 _FREL Natural
+2 _MREL Natural
+0 @F76@ FAM 
+1 HUSB @P295@
+1 WIFE @P209@
+0 @F77@ FAM 
+1 HUSB @P296@
+1 WIFE @P210@
+0 @F78@ FAM 
+1 HUSB @P297@
+1 WIFE @P211@
+0 @F79@ FAM 
+1 HUSB @P300@
+1 WIFE @P224@
+0 @F80@ FAM 
+1 HUSB @P301@
+1 WIFE @P227@
+0 @F81@ FAM 
+1 HUSB @P303@
+1 WIFE @P235@
+1 CHIL @P304@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P305@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P306@
+2 _FREL Natural
+2 _MREL Natural
+0 @F82@ FAM 
+1 HUSB @P310@
+1 WIFE @P237@
+1 CHIL @P311@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P312@
+2 _FREL Natural
+2 _MREL Natural
+0 @F83@ FAM 
+1 HUSB @P313@
+1 WIFE @P240@
+1 MARR 
+2 DATE ABT 21 AUG 2007
+0 @F84@ FAM 
+1 HUSB @P330@
+1 WIFE @P291@
+1 CHIL @P331@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P332@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P333@
+2 _FREL Natural
+2 _MREL Natural
+0 @F85@ FAM 
+1 HUSB @P55@
+1 WIFE @P337@
+0 @F86@ FAM 
+1 HUSB @P339@
+1 WIFE @P338@
+1 CHIL @P342@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P341@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P337@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P343@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P340@
+2 _FREL Natural
+2 _MREL Natural
+0 @F87@ FAM 
+1 HUSB @P344@
+1 WIFE @P47@
+1 CHIL @P345@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P346@
+2 _FREL Natural
+2 _MREL Natural
+0 @F88@ FAM 
+1 HUSB @P48@
+1 WIFE @P49@
+1 CHIL @P26@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P354@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P355@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P356@
+2 _FREL Natural
+2 _MREL Natural
+0 @F89@ FAM 
+1 HUSB @P46@
+1 WIFE @P45@
+1 CHIL @P358@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P359@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P357@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P25@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P361@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P360@
+2 _FREL Natural
+2 _MREL Natural
+0 @F90@ FAM 
+1 HUSB @P365@
+1 WIFE @P356@
+1 CHIL @P364@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P366@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P367@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 5 Sep 1914
+2 PLAC Kings, New York, USA
+2 SOUR @S291545531@
+3 _APID 1,9105::2128658
+0 @F91@ FAM 
+1 HUSB @P363@
+1 WIFE @P355@
+1 CHIL @P362@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 18 Sep 1917
+2 PLAC New York City, New York, USA
+2 SOUR @S291470533@
+3 PAGE New York City Municipal Archives; New York, New York; Borough: Manhattan; Volume Number: 13
+3 _APID 1,61406::6159341
+0 @F92@ FAM 
+1 HUSB @P155@
+1 WIFE @P122@
+1 CHIL @P154@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P152@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P153@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P157@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P156@
+2 _FREL Natural
+2 _MREL Natural
+0 @F93@ FAM 
+1 HUSB @P150@
+1 WIFE @P122@
+1 CHIL @P152@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P151@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 20 Nov, 1911
+0 @F94@ FAM 
+1 HUSB @P267@
+1 WIFE @P152@
+0 @F95@ FAM 
+1 HUSB @P353@
+1 WIFE @P346@
+1 CHIL @P351@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P352@
+2 _FREL Natural
+2 _MREL Natural
+0 @F96@ FAM 
+1 HUSB @P349@
+1 WIFE @P346@
+1 CHIL @P350@
+2 _FREL Natural
+2 _MREL Natural
+0 @F97@ FAM 
+1 HUSB @P348@
+1 WIFE @P347@
+1 CHIL @P344@
+2 _FREL Natural
+2 _MREL Natural
+0 @F98@ FAM 
+1 HUSB @P372@
+1 WIFE @P373@
+0 @F99@ FAM 
+1 WIFE @P5@
+1 CHIL @P24@
+2 _MREL Natural
+0 @F100@ FAM 
+1 HUSB @P124@
+1 CHIL @P59@
+2 _FREL Natural
+1 CHIL @P249@
+2 _FREL Natural
+1 CHIL @P250@
+2 _FREL Natural
+1 CHIL @P251@
+2 _FREL Natural
+0 @F101@ FAM 
+1 HUSB @P191@
+1 CHIL @P71@
+2 _FREL Natural
+0 @F102@ FAM 
+1 HUSB @P75@
+1 CHIL @P79@
+2 _FREL Natural
+1 CHIL @P80@
+2 _FREL Natural
+1 CHIL @P81@
+2 _FREL Natural
+1 CHIL @P82@
+2 _FREL Natural
+0 @F103@ FAM 
+1 HUSB @P76@
+1 CHIL @P83@
+2 _FREL Natural
+1 CHIL @P84@
+2 _FREL Natural
+1 CHIL @P85@
+2 _FREL Natural
+1 CHIL @P86@
+2 _FREL Natural
+0 @F104@ FAM 
+1 WIFE @P77@
+1 CHIL @P87@
+2 _MREL Natural
+1 CHIL @P88@
+2 _MREL Natural
+0 @F105@ FAM 
+1 WIFE @P78@
+1 CHIL @P89@
+2 _MREL Natural
+1 CHIL @P90@
+2 _MREL Natural
+1 CHIL @P91@
+2 _MREL Natural
+1 CHIL @P92@
+2 _MREL Natural
+1 CHIL @P93@
+2 _MREL Natural
+0 @F106@ FAM 
+1 WIFE @P100@
+1 CHIL @P117@
+2 _MREL Natural
+0 @F107@ FAM 
+1 HUSB @P115@
+1 CHIL @P232@
+2 _FREL Natural
+1 CHIL @P233@
+2 _FREL Natural
+0 @F108@ FAM 
+1 HUSB @P119@
+1 CHIL @P239@
+2 _FREL Natural
+1 CHIL @P240@
+2 _FREL Natural
+0 @F109@ FAM 
+1 WIFE @P120@
+1 CHIL @P247@
+2 _MREL Natural
+1 CHIL @P246@
+2 _MREL Natural
+1 CHIL @P248@
+2 _MREL Natural
+0 @F110@ FAM 
+1 HUSB @P132@
+1 CHIL @P256@
+2 _FREL Natural
+1 CHIL @P257@
+2 _FREL Natural
+0 @F111@ FAM 
+1 WIFE @P160@
+1 CHIL @P269@
+2 _MREL Natural
+0 @F112@ FAM 
+1 HUSB @P283@
+1 CHIL @P284@
+2 _FREL Natural
+0 @F113@ FAM 
+1 HUSB @P222@
+1 CHIL @P298@
+2 _FREL Natural
+1 CHIL @P299@
+2 _FREL Natural
+0 @F114@ FAM 
+1 HUSB @P263@
+1 CHIL @P325@
+2 _FREL Natural
+0 @F115@ FAM 
+1 WIFE @P289@
+1 CHIL @P328@
+2 _MREL Natural
+1 CHIL @P329@
+2 _MREL Natural
+0 @F116@ FAM 
+1 HUSB @P335@
+1 CHIL @P334@
+2 _FREL Natural
+0 @F117@ FAM 
+1 HUSB @P336@
+1 CHIL @P335@
+2 _FREL Natural
+0 @F118@ FAM 
+1 HUSB @P366@
+1 CHIL @P368@
+2 _FREL Natural
+0 @F119@ FAM 
+1 WIFE @P351@
+1 CHIL @P370@
+2 _MREL Natural
+1 CHIL @P369@
+2 _MREL Natural
+0 @R253910180@ REPO
+1 NAME Ancestry.com
+0 @S291467799@ SOUR
+1 REPO @R253910180@
+1 TITL Rhode Island, State Censuses, 1865-1935
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,4721::0
+0 @S291467805@ SOUR
+1 REPO @R253910180@
+1 TITL 1940 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,2442::0
+0 @S291467820@ SOUR
+1 REPO @R253910180@
+1 TITL U.S., WWII Jewish Servicemen Cards, 1942-1947
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,2125::0
+0 @S291470073@ SOUR
+1 REPO @R253910180@
+1 TITL Ancestry Family Trees
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.
+0 @S291470345@ SOUR
+1 REPO @R253910180@
+1 TITL U.S. City Directories, 1822-1995
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,2469::0
+0 @S291470359@ SOUR
+1 REPO @R253910180@
+1 TITL New York, Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,7488::0
+0 @S291470482@ SOUR
+1 REPO @R253910180@
+1 TITL U.S., Social Security Death Index, 1935-2014
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,3693::0
+0 @S291470489@ SOUR
+1 REPO @R253910180@
+1 TITL U.S. Public Records Index, 1950-1993, Volume 2
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,1732::0
+0 @S291470498@ SOUR
+1 REPO @R253910180@
+1 TITL U.S. Phone and Address Directories, 1993-2002
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,7339::0
+0 @S291470506@ SOUR
+1 REPO @R253910180@
+1 TITL U.S. Public Records Index, 1950-1993, Volume 1
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,1788::0
+0 @S291470520@ SOUR
+1 REPO @R253910180@
+1 TITL 1930 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,6224::0
+0 @S291470533@ SOUR
+1 REPO @R253910180@
+1 TITL New York, New York, Marriage License Indexes, 1907-2018
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,61406::0
+0 @S291471633@ SOUR
+1 REPO @R253910180@
+1 TITL New York, New York, Voter List, 1924
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,61536::0
+0 @S291471639@ SOUR
+1 REPO @R253910180@
+1 TITL U.S., World War II Draft Registration Cards, 1942
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,1002::0
+0 @S291471713@ SOUR
+1 REPO @R253910180@
+1 TITL U.S., Social Security Applications and Claims Index, 1936-2007
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,60901::0
+0 @S291471720@ SOUR
+1 REPO @R253910180@
+1 TITL New York, State Census, 1915
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,2703::0
+0 @S291471728@ SOUR
+1 REPO @R253910180@
+1 TITL 1910 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,7884::0
+0 @S291471746@ SOUR
+1 REPO @R253910180@
+1 TITL New York, State Census, 1925
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,2704::0
+0 @S291471747@ SOUR
+1 REPO @R253910180@
+1 TITL New York, New York, Extracted Death Index, 1862-1948
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,9131::0
+0 @S291471761@ SOUR
+1 REPO @R253910180@
+1 TITL 1920 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,6061::0
+0 @S291471798@ SOUR
+1 REPO @R253910180@
+1 TITL New York, New York, Birth Index, 1910-1965
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,61457::0
+0 @S291472331@ SOUR
+1 REPO @R253910180@
+1 TITL U.S., School Yearbooks, 1900-1999
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,1265::0
+0 @S291472345@ SOUR
+1 REPO @R253910180@
+1 TITL U.S., World War II Army Enlistment Records, 1938-1946
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,8939::0
+0 @S291543819@ SOUR
+1 REPO @R253910180@
+1 TITL U.S., Find A Grave Index, 1600s-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,60525::0
+0 @S291543916@ SOUR
+1 REPO @R253910180@
+1 TITL U.S. Naturalization Record Indexes, 1791-1992 (Indexed in World Archives Project)
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,1629::0
+0 @S291543958@ SOUR
+1 REPO @R253910180@
+1 TITL Massachusetts, State and Federal Naturalization Records, 1798-1950
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,2361::0
+0 @S291544018@ SOUR
+1 REPO @R253910180@
+1 TITL U.S., World War I Draft Registration Cards, 1917-1918
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,6482::0
+0 @S291544048@ SOUR
+1 REPO @R253910180@
+1 TITL New York, State and Federal Naturalization Records, 1794-1943
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,2280::0
+0 @S291545531@ SOUR
+1 REPO @R253910180@
+1 TITL New York, New York, Extracted Marriage Index, 1866-1937
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,9105::0
+0 @S291545811@ SOUR
+1 REPO @R253910180@
+1 TITL New York, State Census, 1905
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,7364::0
+0 @S291545868@ SOUR
+1 REPO @R253910180@
+1 TITL 1900 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,7602::0
+0 @S291662254@ SOUR
+1 REPO @R253910180@
+1 TITL JewishGen Online Worldwide Burial Registry (JOWBR)
+1 AUTH JewishGen, comp
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,1411::0
+0 TRLR
